@@ -1,6 +1,5 @@
 library(dplyr)
 library(readxl)
-library(stringr)
 
 fpath <- "C:/Users/vom8/CDC/NIOSH-DSI-ETB - General/"
 fname <- "ETB_Project_Tracker_2025-03-18.xlsx"
@@ -55,7 +54,7 @@ for (ii in 1:nrow(wip3)) {
                           
 }
 
-qc <- wip3 %>% select(Column1, `PROJECT NAME`)
+
 
 # bring it all together
 projects$`PROJECT NAME` <- projects$`PROJECT MILESTONES`
@@ -98,25 +97,27 @@ saveRDS(wip4, file=paste0(savepath, "wip", Sys.Date(), ".RDS"))
 ### QC shit
 #################################################
 
+#qc <- wip3 %>% select(Column1, `PROJECT NAME`)
+
 # this metric should probably be reported
-qc <- wip4 %>% filter(STATUS=="Completed" & is.na(`ACTUAL DATE OF COMPLETION`))
+#qc <- wip4 %>% filter(STATUS=="Completed" & is.na(`ACTUAL DATE OF COMPLETION`))
 
 # could measure time remaining, time overdue
-qc <- wip4 %>% filter(STATUS=="DSI OD Review" & is.na(`ACTUAL DATE OF COMPLETION`) & !is.na(Column1))
+#qc <- wip4 %>% filter(STATUS=="DSI OD Review" & is.na(`ACTUAL DATE OF COMPLETION`) & !is.na(Column1))
 
-qc <- wip4 %>% filter(STATUS=="NIOSH OD Review" & is.na(`ACTUAL DATE OF COMPLETION`) & !is.na(Column1))
+#qc <- wip4 %>% filter(STATUS=="NIOSH OD Review" & is.na(`ACTUAL DATE OF COMPLETION`) & !is.na(Column1))
 
 # could also count # with no start date
-qc <- wip4 %>% filter(STATUS=="In Progress" & is.na(`ACTUAL DATE OF COMPLETION`) & !is.na(Column1))
+#qc <- wip4 %>% filter(STATUS=="In Progress" & is.na(`ACTUAL DATE OF COMPLETION`) & !is.na(Column1))
 
-qc$`START DATE` <- as.Date(qc$`START DATE`)
-str(qc$`START DATE`)
+#qc$`START DATE` <- as.Date(qc$`START DATE`)
+#str(qc$`START DATE`)
 
-table(wip4$STATUS)
+#table(wip4$STATUS)
 
-qc <- data.frame(milestone=unique(wip4$`PROJECT MILESTONES`))
+#qc <- data.frame(milestone=unique(wip4$`PROJECT MILESTONES`))
 
-str_view(string=qc$milestone, pattern="review")
-str_view(string=qc$milestone, pattern="Review")
+#stringr::str_view(string=qc$milestone, pattern="review")
+#stringr::str_view(string=qc$milestone, pattern="Review")
 
 

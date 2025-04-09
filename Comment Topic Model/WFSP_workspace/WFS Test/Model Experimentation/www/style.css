@@ -1,0 +1,789 @@
+:root {
+    /* Color Variables */
+    --mint-palette: #e1f3ec, #d4eee5, #c7e9de, #bae4d7, #addfd0, #a0dac9, #93d5c2, #86d0bb, #79cbb4, #6cc6ad, #5fc1a6, #52bc9f, #45b798, #38b291, #2bad8a, #1ea883, #11a37c, #049e75, #00896e, #007466;
+    --grey-palette: #f8f8f8, #f0f0f0, #e0e0e0, #d0d0d0, #c0c0c0, #b0b0b0, #a0a0a0, #909090, #808080, #707070, #606060, #505050, #404040, #303030, #202020, #181818, #101010, #080808, #040404, #000000;
+    --smoke-palette: #e0e4e8, #c9ced3, #b2b8be, #9ba2a9, #848c94, #6d767f, #535b63, #4a525a, #414951, #384048, #2f373f, #262e36, #1d252d, #141c24, #0b131b, #020a12;
+    --moss-palette: #e9f0e9, #dce7dc, #d0ded0, #c3d5c3, #b7ccb7, #abc3ab, #9fb99f, #93b093, #87a787, #7b9e7b, #6f956f, #638c63, #578357, #4b7a4b, #3f713f, #336833, #275f27, #1b561b, #0f4d0f, #034403;
+
+    /* Color Specific Variables */
+    --mint00: #e5f0ec;
+    --mint01: #e1f3ec;
+    --mint02: #d4eee5;
+    --mint03: #c7e9de;
+    --mint04: #bae4d7;
+    --mint05: #addfd0;
+    --mint06: #a0dac9;
+    --mint07: #93d5c2;
+    --mint08: #86d0bb;
+    --mint09: #79cbb4;
+    --mint10: #6cc6ad;
+    --mint11: #5fc1a6;
+    --mint12: #52bc9f;
+    --mint13: #45b798;
+    --mint14: #38b291;
+    --mint15: #2bad8a;
+    --mint16: #1ea883;
+    --mint17: #11a37c;
+    --mint18: #049e75;
+    --mint19: #00896e;
+    --mint20: #007466;
+
+    --grey00: #f8f8f8;
+    --grey01: #f4f4f4;
+    --grey02: #f0f0f0;
+    --grey03: #e0e0e0;
+    --grey04: #d0d0d0;
+    --grey05: #c0c0c0;
+    --grey06: #b0b0b0;
+    --grey07: #a0a0a0;
+    --grey08: #909090;
+    --grey09: #808080;
+    --grey10: #707070;
+    --grey11: #606060;
+    --grey12: #505050;
+    --grey13: #404040;
+    --grey14: #303030;
+    --grey15: #202020;
+    --grey16: #181818;
+    --grey17: #101010;
+    --grey18: #080808;
+    --grey19: #040404;
+    --grey20: #000000;
+
+    --smoke01: #e0e4e8;
+    --smoke02: #c9ced3;
+    --smoke03: #b2b8be;
+    --smoke04: #9ba2a9;
+    --smoke05: #848c94;
+    --smoke06: #6d767f;
+    --smoke07: #535b63;
+    --smoke075: #4d545d;
+    --smoke08: #4a525a;
+    --smoke09: #414951;
+    --smoke10: #384048;
+    --smoke11: #2f373f;
+    --smoke12: #262e36;
+    --smoke13: #1d252d;
+    --smoke14: #141c24;
+    --smoke15: #0b131b;
+    --smoke16: #020a12;
+
+    --moss01: #e9f0e9;
+    --moss02: #dce7dc;
+    --moss03: #d0ded0;
+    --moss04: #c3d5c3;
+    --moss05: #b7ccb7;
+    --moss06: #abc3ab;
+    --moss07: #9fb99f;
+    --moss08: #93b093;
+    --moss09: #87a787;
+    --moss10: #7b9e7b;
+    --moss11: #6f956f;
+    --moss12: #638c63;
+    --moss13: #578357;
+    --moss14: #4b7a4b;
+    --moss15: #3f713f;
+    --moss16: #336833;
+    --moss17: #275f27;
+    --moss18: #1b561b;
+    --moss19: #0f4d0f;
+    --moss20: #034403;
+
+    /* Box Shadow Variables */
+    --bs0: 1px 1px 2px rgba(0, 0, 0, 0.10), 0 1px 2px rgba(0, 0, 0, 0.13);
+    --bs1: 1px 2px 4px rgba(0, 0, 0, 0.12), 0 2px 4px rgba(0, 0, 0, 0.16);
+    --bs2: 2px 3px 6px rgba(0, 0, 0, 0.14), 0 3px 6px rgba(0, 0, 0, 0.21);
+    --bs3: 2px 6px 80px rgba(0, 0, 0, 0.17), 0 5px 5px rgba(0, 0, 0, 0.21);
+    --bs4: 2px 10px 20px rgba(0, 0, 0, 0.17), 0 6px 6px rgba(0, 0, 0, 0.21);
+    --bs5: 2px 14px 28px rgba(0, 0, 0, 0.23), 0 10px 10px rgba(0, 0, 0, 0.20);
+    --bs6: 2px 19px 38px rgba(0, 0, 0, 0.28), 0 15px 12px rgba(0, 0, 0, 0.20);
+    --bsr: 1px 1px 4px rgba(0, 0, 0, 0.10);
+    --bsx: 2px px 2px rgba(0, 0, 0, 0.08), 1px 2px 4px rgba(0, 0, 0, 0.1);
+    --bs1: 1px 3px 4px rgba(0, 0, 0, 0.12), 0 3px 4px rgba(0, 0, 0, 0.16);
+}
+
+/* Typography for standard elements */
+body,
+button,
+input,
+select,
+textarea,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+.btn-primary {
+    background-color: var(--mint04) !important;
+    color: var(--grey12) !important;
+    box-shadow: var(--bs1) !important;
+    border-radius: 5px !important;
+    border-color: transparent !important;
+    font-weight: 700 !important;
+}
+
+.btn-custom {
+    background-color: #ff8787 !important;
+    color: var(--grey12) !important;
+    box-shadow: var(--bs1) !important;
+    border-radius: 5px !important;
+    border-color: transparent !important;
+    font-weight: 700 !important;
+}
+
+.btn-custom:hover {
+    background-color: #ff6a6a !important;
+    font-weight: 700 !important;
+    color: var(--grey12) !important;
+}
+
+html,
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden; 
+    background-color: var(--smoke07) !important;
+    color: var(--grey01) !important;
+}
+
+/* Responsive Containers */
+.container,
+.container-fluid,
+.container-xxl,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Layout Wrapper */
+.wrapper {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    color: var(--grey01) !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Sidebar Component */
+.sidebar {
+    flex: 0 0 25%;
+    max-width: 25%;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: var(--smoke07) !important;
+    color: var(--grey01) !important;
+    scrollbar-width: none;
+    border-radius: 0 !important;
+    box-shadow: var(--bs2) !important;
+    z-index: 2;
+}
+
+.sidebar p{
+    color: var(--grey01) !important;
+    align-items: center !important;
+    vertical-align: middle !important;
+}
+
+.sidebar::before {
+    content: "";
+    display: block;
+    height: 9vh !important;
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 0;
+}
+
+.sidebar:hover::-webkit-scrollbar {
+    width: 4px;
+}
+
+.sidebar:hover::-webkit-scrollbar-thumb {
+    background-color: var(--grey07);
+    border-radius: 5px;
+    height: 2cm;
+}
+
+/* Sidebar Form Styles */
+/* .sidebar .form-group label,
+.sidebar .form-group .control-label {
+} */
+
+/* .sidebar .form-group input,
+.sidebar .form-group select,
+.sidebar .form-group textarea {
+} */
+
+.sidebar .form-group select {
+    background-color: var(--smoke08) !important;
+    border: 1px solid var(--grey08) !important;
+    appearance: none;
+    padding: 5px;
+}
+
+.sidebar .form-group select option {
+    background-color: var(--smoke08) !important;
+    color: var(--grey03) !important;
+}
+
+.sidebar .form-group select:focus {
+    outline: none !important;
+    border-color: var(--grey06) !important;
+    /* box-shadow: var(--bsx) !important; */
+}
+
+.sidebar .form-group select::placeholder {
+    opacity: 1 !important;
+}
+
+/* Main Content Area */
+.main-content {
+    flex: 1;
+    padding: 0 !important;
+    overflow: auto !important;
+    color: var(--grey01) !important;
+    background-color: var(--grey01) !important;
+    height: 100vh !important;
+    border-radius: 0 !important;
+    border: none !important;
+    box-shadow: 0 0 0px !important;
+    z-index: 1;
+}
+
+.main-content::before {
+    content: "";
+    display: block;
+    height: 9vh !important;
+}
+
+.position-relative {
+    position: relative;
+}
+
+/* Title Panel Styles */
+.titlePanel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 7vh !important;
+    width: 100%;
+    z-index: 4;
+    background-color: var(--mint01) !important;
+    box-shadow: var(--bs1) !important;
+    font-weight: 600 !important;
+    padding-left: 2vw !important;
+    display: flex !important;
+    align-items: center !important;
+    margin-top: 0.5rem !important;
+    color: var(--grey16) !important;
+    vertical-align: middle !important;
+}
+
+/* Specific styles for h3 within the titlePanel */
+/* .titlePanel h3 {
+    margin: 0;
+    font-size: 2em !important;
+} */
+
+/* .titlePanel h1,
+.titlePanel h2,
+.titlePanel h3,
+.titlePanel h4,
+.titlePanel h5,
+.titlePanel h6,
+.titlePanel p,
+.titlePanel span,
+.titlePanel div {
+    color: var(--grey16) !important;
+    vertical-align: middle !important;
+    display: flex !important;
+    align-items: center !important;
+    margin-top: 0.5rem !important;
+    font-weight: 500 !important;
+} */
+
+.topic_table_container {
+    height: calc(100vh - 100px);
+    /* Adjust 100px based on your header/footer height */
+    /* overflow-y: auto; */
+}
+
+.tab-content {
+    background-color: var(--grey02) !important;
+    /* box-shadow: var(--bsb) !important; */
+}
+
+/* General Card Styles ------------------------------*/
+.card,
+.well * {
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+    margin: 0vw 0.8vw !important;
+    color: var(--smoke14) !important;
+    height: 100vh !important;
+    overflow: auto !important;
+}
+
+/* .card {
+    overflow: hidden !important;
+    background-color: var(--smoke01) !important;
+} */
+
+.card,
+.well {
+    /* overflow: hidden !important; */
+    background-color: transparent !important;
+}
+
+.card-header {
+    background-color: transparent !important;
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    display: flex;
+    align-items: center;
+    padding: 0px 0px !important;
+    height: 4vmin !important;
+}
+
+.card-body {
+    background-color: var(--grey02) !important;
+    box-shadow: var(--bs1) !important;
+}
+
+
+.nav-item {
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+}
+
+.nav-pills * {
+    font-weight: 600 !important;
+    color: var(--smoke12) !important;
+    border-radius: 0px !important;
+    display: flex !important;
+    height: 4vmin !important;
+    align-items: center !important;
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+}
+
+.nav-pills .nav-item {
+    /* height: 100% !important; */
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+    box-shadow: var(--bsr) !important;
+}
+
+.nav-pills .nav-item .nav-link {
+    height: 100% !important;
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+}
+
+.nav-pills .nav-item .nav-link.active {
+    background-color: var(--grey02) !important;
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+    box-shadow: var(--bs1) !important;
+    height: 100% !important;
+}
+
+.nav-pills .nav-item .nav-link:hover:not(.active) {
+    /* height: 100% !important; */
+    border: none !important;
+    border: 0px !important;
+    border-color: transparent !important;
+    border-radius: 0px !important;
+    box-shadow: var(--bs1) !important;
+}
+
+/* Accordion container */
+.sidebar-container {
+    display: flex;
+    flex-direction: column; /* Ensure children are stacked vertically */
+}
+
+/* Accordion components */
+.accordion {
+    align-content: center !important;
+    margin: 0 auto;
+    width: 100% !important;
+    border: 2px solid var(--smoke01) !important;
+}
+
+.accordion,
+.accordion-item,
+.accordion-header,
+.accordion-body {
+    border: none !important;
+    border-radius: 0 !important;
+    background-color: var(--smoke07) !important;
+    color: var(--smoke01) !important;
+    align-content: center !important;
+    text-align: left !important;
+}
+
+.accordion-item {
+    margin: 0px 20px !important;
+}
+
+/* Accordion header */
+.accordion-header * {
+    font-weight: 600 !important;
+    font-size: 0.8em !important;
+    color: var(--grey01) !important;
+    opacity: 1 !important;
+    /* border-bottom: 1px solid var(--smoke06) !important; */
+}
+
+/* Accordion button */
+.accordion-button {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color: var(--smoke07) !important;
+    color: var(--mint01) !important;
+    border: none !important;
+    border-bottom: 1px solid var(--smoke06) !important;
+    border-radius: 2px !important;
+    /* transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; */
+}
+
+.accordion-button:active,
+.accordion-button:focus,
+.accordion-button:hover {
+    border-bottom: 1px solid var(--smoke06) !important;
+    /* color: var(--mint01) !important;
+    outline: none !important; */
+    /* border-bottom: 1px solid var(--smoke06) !important; */
+}
+
+.accordion-button:hover {
+    background-color: var(--smoke075) !important;
+    border-bottom: 1px solid var(--smoke05) !important;
+}
+
+/* Expanded accordion button */
+.accordion-button:not(.collapsed)::before,
+.accordion-button:not(.collapsed)::after {
+    color: var(--mint01) !important;
+    opacity: 1 !important;
+    border-bottom: 1px solid var(--smoke06) !important;
+    border: none !important;
+    outline: none !important;
+}
+
+/* Remove default focus outline */
+.accordion-button:focus,
+.accordion-button:not(.collapsed):focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border-bottom: 1px solid var(--smoke06) !important;
+}
+
+/* Accordion icon */
+/* .accordion-icon {
+    
+} */
+
+/* Target the accordion icon and set its color to white */
+.accordion .accordion-toggle::before {
+    color: white !important;
+}
+
+/* Additional rule to ensure the icon color remains white when the accordion is active */
+.accordion .accordion-toggle.collapsed::before {
+    color: white !important;
+}
+
+.accordion-toggle::before {
+    content: '';
+    display: inline-block;
+    width: 16px;    /* Set the width of the icon */
+    height: 16px;    /* Set the height of the icon */
+    background-image: url('C: \Users\ytn7\OneDrive - CDC\CDC\Wildland Fire Comments\data\config\down-arrow.svg');    /* Path to your local file */
+    filter: invert(100%);
+    background-size: contain;    /* Ensure the image scales correctly */
+    background-repeat: no-repeat;    /* Prevent tiling of the image */
+    margin-right: 10px;    /* Add space between icon and text */
+}
+
+/* Slider custom styles */
+.irs--shiny {
+    --slider-bar-height: 3px;
+    --slider-line-height: 3px;
+}
+
+.irs--shiny .irs-bar {
+    background-color: var(--mint06) !important;
+    height: var(--slider-bar-height) !important;
+}
+
+.irs--shiny .irs-line {
+    height: var(--slider-line-height) !important;
+}
+
+/* Current value label on slider */
+.irs--shiny .irs-single {
+    background-color: transparent !important;
+}
+
+/* Grid lines on slider */
+.irs--shiny .irs-grid-text {
+    font-weight: 600 !important;
+    font-size: 1em !important;
+    color: var(--grey02) !important;
+    background-color: none !important;
+}
+
+/* Tooltip component */
+.tooltip {
+    position: absolute !important;
+    z-index: 1050 !important;
+    color: var(--smoke10) !important;
+}
+
+/* Tooltip inner content */
+.tooltip-inner {
+    background-color: var(--mint05) !important;
+    color: var(--smoke10) !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    border-radius: 5px !important;
+    padding: 10px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out !important;
+    max-width: 600px !important;
+    text-align: center !important;
+    line-height: 1.5 !important;
+}
+
+/* Tooltip show state */
+.tooltip.show {
+    opacity: 1 !important;
+}
+
+/* Tooltip hidden state */
+.tooltip:not(.show) {
+    opacity: 0;
+    transform: translateY(-10px) !important;
+}
+
+/* Placeholder styling */
+::placeholder {
+    /* color: red !important; */
+    opacity: 0.8 !important;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-container img:hover {
+    /* transform: scale(1.02); */
+    transition: transform 0.2s ease;
+}
+
+.plot-container {
+    position: relative;
+    width: 100%;
+    /* padding-top: 56.25%; */
+    /* 16:9 Aspect Ratio */
+}
+
+.responsive-plot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.visual-outputs-container {
+    background: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.plot-wrapper {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.plot-wrapper h4 {
+    color: #495057;
+    font-size: 1.1em;
+}
+
+.thumbnail-container {
+    position: relative;
+    background: white;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.thumbnail-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for the modal */
+.modal-dialog {
+    max-width: 90%;
+    margin: 20px auto;
+}
+
+/* Modal content styles */
+.modal-content {
+    background-color: transparent;
+    border: none;
+}
+
+/* Modal header styles */
+.modal-header {
+    border: none;
+}
+
+/* Modal footer styles */
+.modal-footer {
+    border: none;
+    justify-content: center;
+}
+
+/* Modal button styles */
+.modal-footer .btn {
+    background-color: transparent !important;
+    color: var(--grey14);
+    border: 1px solid #a90ed9;
+    padding: 8px 20px;
+    border-radius: 4px;
+}
+
+.modal-footer .btn:hover {
+    background-color: #0c62b8;
+}
+
+/* Reactable table header styles */
+.reactable .rt-table .rt-head * {
+    background-color: var(--grey03) !important;
+}
+
+/* Reactable table body row styles */
+.reactable .rt-tbody .rt-tr-group {
+    color: var(--grey14) !important;
+    background-color: var(--mint03) !important;
+    background-color: transparent !important;
+    border-color: #ccc !important;
+}
+
+/* Reactable table striped row styles */
+.reactable .rt-tbody .rt-tr-group:nth-child(odd) {
+    background-color: transparent !important;
+    /* Striped color */
+}
+
+/* Reactable table row hover styles */
+.reactable .rt-tbody .rt-tr:hover {
+    /* background-color: var(--grey02) !important; */
+    /* Highlight color */
+}
+
+/* Reactable table cell styles */
+.reactable .rt-td {
+    padding: 8px 12px !important;
+    /* Cell padding */
+    font-family: Arial, sans-serif !important;
+    font-size: 14px !important;
+}
+
+/* Reactable table header styles */
+.reactable .rt-th {
+    background-color: var(--mint04) !important;
+    /* Header background color */
+    color: var(--grey14) !important;
+    /* Header text color */
+    font-weight: bold !important;
+}
+
+/* Reactable table pagination styles */
+.reactable .rt-pagination {
+    background-color: transparent !important;
+    /* Pagination background color */
+    color: var(--grey16) !important;
+    /* Pagination text color */
+}
+
+/* Reactable table header row height */
+.reactable .rt-th,
+.reactable .rt-thead {
+    height: 3em !important;
+    /* Adjust the height as needed */
+    line-height: 3em !important;
+    /* Ensure text is vertically centered */
+    vertical-align: middle !important;
+    display: flex !important;
+}
+
+.Reactable {
+    background-color: transparent !important;
+}
+
+.rt-align-center .rt-sort-header {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+/* .rt-compact .rt-td-inner,
+.rt-compact .rt-th-inner {
+    padding: 4px 6px;
+    vertical-align: middle !important;
+} */
+
+/* Ensure inner content is centered */
+.reactable .rt-th-inner {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100%;
+    /* Ensure the inner content takes full width */
+    height: 100%;
+    /* Ensure the inner content takes full height */
+    font-size: 1.2em !important;
+}

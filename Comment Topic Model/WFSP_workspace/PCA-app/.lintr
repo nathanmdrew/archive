@@ -1,0 +1,1 @@
+exclusions: list.files(".", recursive = TRUE) 

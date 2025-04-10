@@ -1,0 +1,387 @@
+AssayID,publication_DOI,AssayType,AssayName,medium_MediumID,medium_publication_DOI,material_MaterialID,material_publication_DOI
+1,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+1,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+1,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+2,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+2,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+2,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+3,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+3,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+3,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+4,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+4,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+4,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+5,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+5,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+5,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+6,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+6,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+6,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+7,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+7,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+7,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+8,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+8,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+8,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+9,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+9,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+9,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+10,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+10,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+10,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+11,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+11,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+11,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+12,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+12,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+12,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+13,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+13,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+13,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+14,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+14,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+14,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+15,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+15,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+15,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+16,10.1016/j.neuro.2014.08.010,in vitro,reporter gene assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+16,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+16,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+17,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+17,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+17,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+18,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+18,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+18,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+19,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+19,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+19,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+20,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+20,10.1021/acs.est.5b01041,physical characterization,Electrophoretic Mobility,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+20,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+21,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+21,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+21,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+22,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+22,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+22,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+23,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+23,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+23,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+24,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+24,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+24,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+25,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+25,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+25,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+26,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+26,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+26,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+27,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+27,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+27,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+28,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+28,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+28,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+29,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+29,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+29,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+30,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+30,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+30,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+31,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+31,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+31,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+32,10.1016/j.neuro.2014.08.010,in vitro,Griess Assay,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+32,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+32,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+33,10.1016/j.neuro.2014.08.010,in vitro,Genomics,1,10.1016/j.neuro.2014.08.010,1,10.1016/j.neuro.2014.08.010
+33,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+33,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+34,10.1016/j.neuro.2014.08.010,in vitro,Genomics,1,10.1016/j.neuro.2014.08.010,2,10.1016/j.neuro.2014.08.010
+34,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+34,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+35,10.1016/j.neuro.2014.08.010,in vitro,Genomics,2,10.1016/j.neuro.2014.08.010,3,10.1016/j.neuro.2014.08.010
+35,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+35,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+36,10.1016/j.neuro.2014.08.010,in vitro,Genomics,2,10.1016/j.neuro.2014.08.010,4,10.1016/j.neuro.2014.08.010
+36,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+36,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+37,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+37,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+38,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+38,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+39,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+39,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+40,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+40,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+41,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+41,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+42,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+42,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+43,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+43,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+44,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+44,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+45,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+45,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+46,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+46,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+47,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+47,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+48,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+48,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+49,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+49,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+50,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+50,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+51,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+51,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+52,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+52,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+53,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+53,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+54,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+54,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+55,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+55,10.1021/acs.est.7b01477,physical characterization,Ultraviolet/visible spectroscopy,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+56,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+56,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+57,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+57,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+58,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+58,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+59,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+59,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+60,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+60,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+61,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+61,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+62,10.1021/acs.est.5b01041,in silico,attachment efficiency,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+62,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+63,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+63,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+64,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+64,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+65,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+65,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+66,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+66,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+67,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+67,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+68,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+68,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+69,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+69,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+70,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+70,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+71,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+71,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+72,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+72,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+73,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+73,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+74,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+74,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+75,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+75,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+76,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+76,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+77,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+77,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+78,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+78,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+79,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+79,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+80,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+80,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+81,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+81,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+82,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+82,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+83,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+83,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+84,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+84,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+85,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+85,10.1021/acs.est.7b01477,physical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+86,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+86,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+87,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+87,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+88,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+88,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+89,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+89,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+90,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+90,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+91,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+91,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+92,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+92,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+93,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+93,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+94,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+94,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+95,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+95,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+96,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+96,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+97,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+97,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+98,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+98,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+99,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+99,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+100,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+100,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+101,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+101,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+102,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+102,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+103,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+103,10.1021/acs.est.7b01477,in silico,Transport study,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+104,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+104,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+105,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+105,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+106,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+106,10.1021/acs.est.7b01477,in silico,Transport study,2,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+107,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+107,10.1021/acs.est.7b01477,chemical characterization,Attachment efficiency,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+108,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+108,10.1021/acs.est.7b01477,chemical characterization,Attachment efficiency,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+109,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+109,10.1021/acs.est.7b01477,chemical characterization,Attachment efficiency,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+110,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+110,10.1021/acs.est.7b01477,chemical characterization,Attachment efficiency,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+111,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+111,10.1021/acs.est.7b01477,chemical characterization,Attachment efficiency,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+112,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+112,10.1021/acs.est.7b01477,chemical characterization,Attachment efficiency,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+113,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+113,10.1021/acs.est.7b01477,chemical characterization,Inductively coupled plasma mass spectrometry,1,10.1021/acs.est.7b01477,1,No Publication
+114,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+114,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+115,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+115,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+116,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+116,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+117,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+117,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+118,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+118,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+119,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+119,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+120,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+120,10.1021/acs.est.7b01477,chemical characterization,dynamic light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+121,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+121,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+122,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+122,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+123,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+123,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+124,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+124,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+125,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+125,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+126,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+126,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+127,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+127,10.1021/acs.est.7b01477,chemical characterization,phase analysis light scattering,1,10.1021/acs.est.7b01477,1,10.1021/acs.est.7b01477
+128,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+129,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+130,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+131,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+132,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+133,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+134,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+135,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+136,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+137,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+138,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+139,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+140,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+141,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+142,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+143,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+144,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+145,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+146,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+147,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+148,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+149,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+150,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+151,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+152,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+153,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+154,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+155,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+156,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+157,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+158,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+159,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+160,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+161,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+162,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,No Publication
+163,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+164,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+165,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,No Publication
+166,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,No Publication
+167,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,No Publication
+168,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,No Publication
+169,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,No Publication
+170,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,No Publication
+171,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+172,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+173,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+174,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+175,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+176,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,2,10.1021/acs.est.5b01041
+177,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+178,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+179,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+180,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+181,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+182,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+183,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+184,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+185,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+186,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+187,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+188,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+189,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+190,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+191,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+192,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+193,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+194,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+195,10.1021/acs.est.5b01041,life cycle,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+196,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+197,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+198,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+199,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+200,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+201,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+202,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+203,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+204,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+205,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+206,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+207,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+208,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+209,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+210,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+211,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+212,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+213,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,1,10.1021/acs.est.5b01041
+214,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+215,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+216,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+217,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+218,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+219,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,4,10.1021/acs.est.5b01041
+220,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+221,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+222,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041
+223,10.1021/acs.est.5b01041,life cycle,product formation,1,10.1021/acs.est.5b01041,3,10.1021/acs.est.5b01041

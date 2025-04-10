@@ -1,0 +1,543 @@
+ResultID,ResultType,ResultDetails,ResultValue,ResultApproxSymbol,ResultUnit,ResultUncertainty,ResultLow,ResultHigh,assay_AssayID,assay_publication_DOI
+191816,Concentration multiwalled carbon nanotube,Ln transformed,-4.397,,natural log of kilograms/cube meter,,NULL,NULL,1,10.1021/acs.est.7b01477
+191817,Concentration multiwalled carbon nanotube,Ln transformed,-4.436,,natural log of kilograms/cube meter,,NULL,NULL,2,10.1021/acs.est.7b01477
+191818,Concentration multiwalled carbon nanotube,Ln transformed,-4.528,,natural log of kilograms/cube meter,,NULL,NULL,3,10.1021/acs.est.7b01477
+191819,Concentration multiwalled carbon nanotube,Ln transformed,-4.56,,natural log of kilograms/cube meter,,NULL,NULL,3,10.1021/acs.est.7b01477
+191820,Concentration multiwalled carbon nanotube,Ln transformed,-4.604,,natural log of kilograms/cube meter,,NULL,NULL,3,10.1021/acs.est.7b01477
+191821,Concentration multiwalled carbon nanotube,Ln transformed,-4.552,,natural log of kilograms/cube meter,,NULL,NULL,4,10.1021/acs.est.7b01477
+191822,Concentration multiwalled carbon nanotube,Ln transformed,-4.635,,natural log of kilograms/cube meter,,NULL,NULL,4,10.1021/acs.est.7b01477
+191823,Concentration multiwalled carbon nanotube,Ln transformed,-4.665,,natural log of kilograms/cube meter,,NULL,NULL,4,10.1021/acs.est.7b01477
+191824,Concentration multiwalled carbon nanotube,Ln transformed,-4.614,,natural log of kilograms/cube meter,,NULL,NULL,5,10.1021/acs.est.7b01477
+191825,Concentration multiwalled carbon nanotube,Ln transformed,-4.748,,natural log of kilograms/cube meter,,NULL,NULL,5,10.1021/acs.est.7b01477
+191826,Concentration multiwalled carbon nanotube,Ln transformed,-4.805,,natural log of kilograms/cube meter,,NULL,NULL,5,10.1021/acs.est.7b01477
+191827,Concentration multiwalled carbon nanotube,Ln transformed,-4.679,,natural log of kilograms/cube meter,,NULL,NULL,6,10.1021/acs.est.7b01477
+191828,Concentration multiwalled carbon nanotube,Ln transformed,-4.813,,natural log of kilograms/cube meter,,NULL,NULL,6,10.1021/acs.est.7b01477
+191829,Concentration multiwalled carbon nanotube,Ln transformed,-4.91,,natural log of kilograms/cube meter,,NULL,NULL,6,10.1021/acs.est.7b01477
+191830,Concentration multiwalled carbon nanotube,Ln transformed,-4.727,,natural log of kilograms/cube meter,,NULL,NULL,7,10.1021/acs.est.7b01477
+191831,Concentration multiwalled carbon nanotube,Ln transformed,-4.884,,natural log of kilograms/cube meter,,NULL,NULL,7,10.1021/acs.est.7b01477
+191832,Concentration multiwalled carbon nanotube,Ln transformed,-5,,natural log of kilograms/cube meter,,NULL,NULL,7,10.1021/acs.est.7b01477
+191833,Concentration multiwalled carbon nanotube,Ln transformed,-4.394,,natural log of kilograms/cube meter,,NULL,NULL,8,10.1021/acs.est.7b01477
+191834,Concentration multiwalled carbon nanotube,Ln transformed,-4.428,,natural log of kilograms/cube meter,,NULL,NULL,9,10.1021/acs.est.7b01477
+191835,Concentration multiwalled carbon nanotube,Ln transformed,-4.503,,natural log of kilograms/cube meter,,NULL,NULL,10,10.1021/acs.est.7b01477
+191836,Concentration multiwalled carbon nanotube,Ln transformed,-4.51,,natural log of kilograms/cube meter,,NULL,NULL,10,10.1021/acs.est.7b01477
+191837,Concentration multiwalled carbon nanotube,Ln transformed,-4.516,,natural log of kilograms/cube meter,,NULL,NULL,10,10.1021/acs.est.7b01477
+191838,Concentration multiwalled carbon nanotube,Ln transformed,-4.545,,natural log of kilograms/cube meter,,NULL,NULL,11,10.1021/acs.est.7b01477
+191839,Concentration multiwalled carbon nanotube,Ln transformed,-4.549,,natural log of kilograms/cube meter,,NULL,NULL,11,10.1021/acs.est.7b01477
+191840,Concentration multiwalled carbon nanotube,Ln transformed,-4.554,,natural log of kilograms/cube meter,,NULL,NULL,11,10.1021/acs.est.7b01477
+191841,Concentration multiwalled carbon nanotube,Ln transformed,-4.623,,natural log of kilograms/cube meter,,NULL,NULL,12,10.1021/acs.est.7b01477
+191842,Concentration multiwalled carbon nanotube,Ln transformed,-4.625,,natural log of kilograms/cube meter,,NULL,NULL,12,10.1021/acs.est.7b01477
+191843,Concentration multiwalled carbon nanotube,Ln transformed,-4.65,,natural log of kilograms/cube meter,,NULL,NULL,12,10.1021/acs.est.7b01477
+191844,Concentration multiwalled carbon nanotube,Ln transformed,-4.65,,natural log of kilograms/cube meter,,NULL,NULL,13,10.1021/acs.est.7b01477
+191845,Concentration multiwalled carbon nanotube,Ln transformed,-4.654,,natural log of kilograms/cube meter,,NULL,NULL,13,10.1021/acs.est.7b01477
+191846,Concentration multiwalled carbon nanotube,Ln transformed,-4.702,,natural log of kilograms/cube meter,,NULL,NULL,13,10.1021/acs.est.7b01477
+191847,Concentration multiwalled carbon nanotube,Ln transformed,-4.709,,natural log of kilograms/cube meter,,NULL,NULL,14,10.1021/acs.est.7b01477
+191848,Concentration multiwalled carbon nanotube,Ln transformed,-4.723,,natural log of kilograms/cube meter,,NULL,NULL,14,10.1021/acs.est.7b01477
+191849,Concentration multiwalled carbon nanotube,Ln transformed,-4.763,,natural log of kilograms/cube meter,,NULL,NULL,14,10.1021/acs.est.7b01477
+191850,Concentration multiwalled carbon nanotube,Ln transformed,-4.843,,natural log of kilograms/cube meter,,NULL,NULL,15,10.1021/acs.est.7b01477
+191851,Concentration multiwalled carbon nanotube,Ln transformed,-4.859,,natural log of kilograms/cube meter,,NULL,NULL,15,10.1021/acs.est.7b01477
+191852,Concentration multiwalled carbon nanotube,Ln transformed,-4.889,,natural log of kilograms/cube meter,,NULL,NULL,15,10.1021/acs.est.7b01477
+191853,Concentration multiwalled carbon nanotube,Ln transformed,-4.889,,natural log of kilograms/cube meter,,NULL,NULL,16,10.1021/acs.est.7b01477
+191854,Concentration multiwalled carbon nanotube,Ln transformed,-4.926,,natural log of kilograms/cube meter,,NULL,NULL,16,10.1021/acs.est.7b01477
+191855,Concentration multiwalled carbon nanotube,Ln transformed,-4.933,,natural log of kilograms/cube meter,,NULL,NULL,16,10.1021/acs.est.7b01477
+191856,Concentration multiwalled carbon nanotube,Ln transformed,-4.413,,natural log of kilograms/cube meter,,NULL,NULL,17,10.1021/acs.est.7b01477
+191857,Concentration multiwalled carbon nanotube,Ln transformed,-4.405,,natural log of kilograms/cube meter,,NULL,NULL,18,10.1021/acs.est.7b01477
+191858,Concentration multiwalled carbon nanotube,Ln transformed,-4.411,,natural log of kilograms/cube meter,,NULL,NULL,18,10.1021/acs.est.7b01477
+191859,Concentration multiwalled carbon nanotube,Ln transformed,-4.415,,natural log of kilograms/cube meter,,NULL,NULL,18,10.1021/acs.est.7b01477
+191860,Concentration multiwalled carbon nanotube,Ln transformed,-4.455,,natural log of kilograms/cube meter,,NULL,NULL,19,10.1021/acs.est.7b01477
+191861,Concentration multiwalled carbon nanotube,Ln transformed,-4.447,,natural log of kilograms/cube meter,,NULL,NULL,19,10.1021/acs.est.7b01477
+191862,Concentration multiwalled carbon nanotube,Ln transformed,-4.495,,natural log of kilograms/cube meter,,NULL,NULL,20,10.1021/acs.est.7b01477
+191863,Concentration multiwalled carbon nanotube,Ln transformed,-4.499,,natural log of kilograms/cube meter,,NULL,NULL,20,10.1021/acs.est.7b01477
+191864,Concentration multiwalled carbon nanotube,Ln transformed,-4.539,,natural log of kilograms/cube meter,,NULL,NULL,20,10.1021/acs.est.7b01477
+191865,Concentration multiwalled carbon nanotube,Ln transformed,-4.623,,natural log of kilograms/cube meter,,NULL,NULL,21,10.1021/acs.est.7b01477
+191866,Concentration multiwalled carbon nanotube,Ln transformed,-4.606,,natural log of kilograms/cube meter,,NULL,NULL,21,10.1021/acs.est.7b01477
+191867,Concentration multiwalled carbon nanotube,Ln transformed,-4.755,,natural log of kilograms/cube meter,,NULL,NULL,22,10.1021/acs.est.7b01477
+191868,Concentration multiwalled carbon nanotube,Ln transformed,-4.769,,natural log of kilograms/cube meter,,NULL,NULL,22,10.1021/acs.est.7b01477
+191869,Concentration multiwalled carbon nanotube,Ln transformed,-4.832,,natural log of kilograms/cube meter,,NULL,NULL,22,10.1021/acs.est.7b01477
+191870,Concentration multiwalled carbon nanotube,Ln transformed,-4.849,,natural log of kilograms/cube meter,,NULL,NULL,23,10.1021/acs.est.7b01477
+191871,Concentration multiwalled carbon nanotube,Ln transformed,-4.903,,natural log of kilograms/cube meter,,NULL,NULL,23,10.1021/acs.est.7b01477
+191872,Concentration multiwalled carbon nanotube,Ln transformed,-4.912,,natural log of kilograms/cube meter,,NULL,NULL,23,10.1021/acs.est.7b01477
+191873,Concentration multiwalled carbon nanotube,Ln transformed,-4.922,,natural log of kilograms/cube meter,,NULL,NULL,24,10.1021/acs.est.7b01477
+191874,Concentration multiwalled carbon nanotube,Ln transformed,-5.021,,natural log of kilograms/cube meter,,NULL,NULL,24,10.1021/acs.est.7b01477
+191875,Concentration multiwalled carbon nanotube,Ln transformed,-5.064,,natural log of kilograms/cube meter,,NULL,NULL,24,10.1021/acs.est.7b01477
+191876,Concentration multiwalled carbon nanotube,Ln transformed,-5.021,,natural log of kilograms/cube meter,,NULL,NULL,25,10.1021/acs.est.7b01477
+191877,Concentration multiwalled carbon nanotube,Ln transformed,-5.131,,natural log of kilograms/cube meter,,NULL,NULL,25,10.1021/acs.est.7b01477
+191878,Concentration multiwalled carbon nanotube,Ln transformed,-5.257,,natural log of kilograms/cube meter,,NULL,NULL,25,10.1021/acs.est.7b01477
+191879,Concentration multiwalled carbon nanotube,Ln transformed,-5.079,,natural log of kilograms/cube meter,,NULL,NULL,26,10.1021/acs.est.7b01477
+191880,Concentration multiwalled carbon nanotube,Ln transformed,-5.224,,natural log of kilograms/cube meter,,NULL,NULL,26,10.1021/acs.est.7b01477
+191881,Concentration multiwalled carbon nanotube,Ln transformed,-5.437,,natural log of kilograms/cube meter,,NULL,NULL,26,10.1021/acs.est.7b01477
+191882,Concentration multiwalled carbon nanotube,Ln transformed,-4.392,,natural log of kilograms/cube meter,,NULL,NULL,27,10.1021/acs.est.7b01477
+191883,Concentration multiwalled carbon nanotube,Ln transformed,-4.405,,natural log of kilograms/cube meter,,NULL,NULL,28,10.1021/acs.est.7b01477
+191884,Concentration multiwalled carbon nanotube,Ln transformed,-4.411,,natural log of kilograms/cube meter,,NULL,NULL,28,10.1021/acs.est.7b01477
+191885,Concentration multiwalled carbon nanotube,Ln transformed,-4.426,,natural log of kilograms/cube meter,,NULL,NULL,29,10.1021/acs.est.7b01477
+191886,Concentration multiwalled carbon nanotube,Ln transformed,-4.438,,natural log of kilograms/cube meter,,NULL,NULL,29,10.1021/acs.est.7b01477
+191887,Concentration multiwalled carbon nanotube,Ln transformed,-4.478,,natural log of kilograms/cube meter,,NULL,NULL,30,10.1021/acs.est.7b01477
+191888,Concentration multiwalled carbon nanotube,Ln transformed,-4.537,,natural log of kilograms/cube meter,,NULL,NULL,31,10.1021/acs.est.7b01477
+191889,Concentration multiwalled carbon nanotube,Ln transformed,-4.547,,natural log of kilograms/cube meter,,NULL,NULL,31,10.1021/acs.est.7b01477
+191890,Concentration multiwalled carbon nanotube,Ln transformed,-4.57,,natural log of kilograms/cube meter,,NULL,NULL,32,10.1021/acs.est.7b01477
+191891,Concentration multiwalled carbon nanotube,Ln transformed,-4.581,,natural log of kilograms/cube meter,,NULL,NULL,32,10.1021/acs.est.7b01477
+191892,Concentration multiwalled carbon nanotube,Ln transformed,-4.595,,natural log of kilograms/cube meter,,NULL,NULL,32,10.1021/acs.est.7b01477
+191893,Concentration multiwalled carbon nanotube,Ln transformed,-4.602,,natural log of kilograms/cube meter,,NULL,NULL,33,10.1021/acs.est.7b01477
+191894,Concentration multiwalled carbon nanotube,Ln transformed,-4.65,,natural log of kilograms/cube meter,,NULL,NULL,33,10.1021/acs.est.7b01477
+191895,Concentration multiwalled carbon nanotube,Ln transformed,-4.652,,natural log of kilograms/cube meter,,NULL,NULL,33,10.1021/acs.est.7b01477
+191896,Concentration multiwalled carbon nanotube,Ln transformed,-4.662,,natural log of kilograms/cube meter,,NULL,NULL,34,10.1021/acs.est.7b01477
+191897,Concentration multiwalled carbon nanotube,Ln transformed,-4.704,,natural log of kilograms/cube meter,,NULL,NULL,34,10.1021/acs.est.7b01477
+191898,Concentration multiwalled carbon nanotube,Ln transformed,-4.74,,natural log of kilograms/cube meter,,NULL,NULL,34,10.1021/acs.est.7b01477
+191899,Concentration multiwalled carbon nanotube,Ln transformed,-4.736,,natural log of kilograms/cube meter,,NULL,NULL,35,10.1021/acs.est.7b01477
+191900,Concentration multiwalled carbon nanotube,Ln transformed,-4.776,,natural log of kilograms/cube meter,,NULL,NULL,35,10.1021/acs.est.7b01477
+191901,Concentration multiwalled carbon nanotube,Ln transformed,-4.796,,natural log of kilograms/cube meter,,NULL,NULL,35,10.1021/acs.est.7b01477
+191902,Concentration multiwalled carbon nanotube,Ln transformed,-4.434,,natural log of kilograms/cube meter,,NULL,NULL,36,10.1021/acs.est.7b01477
+191903,Concentration multiwalled carbon nanotube,Ln transformed,-4.443,,natural log of kilograms/cube meter,,NULL,NULL,36,10.1021/acs.est.7b01477
+191904,Concentration multiwalled carbon nanotube,Ln transformed,-4.453,,natural log of kilograms/cube meter,,NULL,NULL,36,10.1021/acs.est.7b01477
+191905,Concentration multiwalled carbon nanotube,Ln transformed,-4.405,,natural log of kilograms/cube meter,,NULL,NULL,37,10.1021/acs.est.7b01477
+191906,Concentration multiwalled carbon nanotube,Ln transformed,-4.434,,natural log of kilograms/cube meter,,NULL,NULL,38,10.1021/acs.est.7b01477
+191907,Concentration multiwalled carbon nanotube,Ln transformed,-4.443,,natural log of kilograms/cube meter,,NULL,NULL,38,10.1021/acs.est.7b01477
+191908,Concentration multiwalled carbon nanotube,Ln transformed,-4.445,,natural log of kilograms/cube meter,,NULL,NULL,39,10.1021/acs.est.7b01477
+191909,Concentration multiwalled carbon nanotube,Ln transformed,-4.434,,natural log of kilograms/cube meter,,NULL,NULL,39,10.1021/acs.est.7b01477
+191910,Concentration multiwalled carbon nanotube,Ln transformed,-4.495,,natural log of kilograms/cube meter,,NULL,NULL,40,10.1021/acs.est.7b01477
+191911,Concentration multiwalled carbon nanotube,Ln transformed,-4.535,,natural log of kilograms/cube meter,,NULL,NULL,41,10.1021/acs.est.7b01477
+191912,Concentration multiwalled carbon nanotube,Ln transformed,-4.541,,natural log of kilograms/cube meter,,NULL,NULL,41,10.1021/acs.est.7b01477
+191913,Concentration multiwalled carbon nanotube,Ln transformed,-4.556,,natural log of kilograms/cube meter,,NULL,NULL,41,10.1021/acs.est.7b01477
+191914,Concentration multiwalled carbon nanotube,Ln transformed,-4.579,,natural log of kilograms/cube meter,,NULL,NULL,42,10.1021/acs.est.7b01477
+191915,Concentration multiwalled carbon nanotube,Ln transformed,-4.61,,natural log of kilograms/cube meter,,NULL,NULL,42,10.1021/acs.est.7b01477
+191916,Concentration multiwalled carbon nanotube,Ln transformed,-4.629,,natural log of kilograms/cube meter,,NULL,NULL,42,10.1021/acs.est.7b01477
+191917,Concentration multiwalled carbon nanotube,Ln transformed,-4.619,,natural log of kilograms/cube meter,,NULL,NULL,43,10.1021/acs.est.7b01477
+191918,Concentration multiwalled carbon nanotube,Ln transformed,-4.671,,natural log of kilograms/cube meter,,NULL,NULL,43,10.1021/acs.est.7b01477
+191919,Concentration multiwalled carbon nanotube,Ln transformed,-4.677,,natural log of kilograms/cube meter,,NULL,NULL,43,10.1021/acs.est.7b01477
+191920,Concentration multiwalled carbon nanotube,Ln transformed,-4.776,,natural log of kilograms/cube meter,,NULL,NULL,44,10.1021/acs.est.7b01477
+191921,Concentration multiwalled carbon nanotube,Ln transformed,-4.809,,natural log of kilograms/cube meter,,NULL,NULL,44,10.1021/acs.est.7b01477
+191922,Concentration multiwalled carbon nanotube,Ln transformed,-4.696,,natural log of kilograms/cube meter,,NULL,NULL,44,10.1021/acs.est.7b01477
+191923,Concentration multiwalled carbon nanotube,Ln transformed,-4.767,,natural log of kilograms/cube meter,,NULL,NULL,45,10.1021/acs.est.7b01477
+191924,Concentration multiwalled carbon nanotube,Ln transformed,-4.922,,natural log of kilograms/cube meter,,NULL,NULL,45,10.1021/acs.est.7b01477
+191925,Concentration multiwalled carbon nanotube,Ln transformed,-4.995,,natural log of kilograms/cube meter,,NULL,NULL,45,10.1021/acs.est.7b01477
+191926,Concentration multiwalled carbon nanotube,Ln transformed,-4.426,,natural log of kilograms/cube meter,,NULL,NULL,46,10.1021/acs.est.7b01477
+191927,Concentration multiwalled carbon nanotube,Ln transformed,-4.397,,natural log of kilograms/cube meter,,NULL,NULL,47,10.1021/acs.est.7b01477
+191928,Concentration multiwalled carbon nanotube,Ln transformed,-4.405,,natural log of kilograms/cube meter,,NULL,NULL,48,10.1021/acs.est.7b01477
+191929,Concentration multiwalled carbon nanotube,Ln transformed,-4.418,,natural log of kilograms/cube meter,,NULL,NULL,48,10.1021/acs.est.7b01477
+191930,Concentration multiwalled carbon nanotube,Ln transformed,-4.457,,natural log of kilograms/cube meter,,NULL,NULL,49,10.1021/acs.est.7b01477
+191931,Concentration multiwalled carbon nanotube,Ln transformed,-4.459,,natural log of kilograms/cube meter,,NULL,NULL,49,10.1021/acs.est.7b01477
+191932,Concentration multiwalled carbon nanotube,Ln transformed,-4.476,,natural log of kilograms/cube meter,,NULL,NULL,50,10.1021/acs.est.7b01477
+191933,Concentration multiwalled carbon nanotube,Ln transformed,-4.489,,natural log of kilograms/cube meter,,NULL,NULL,50,10.1021/acs.est.7b01477
+191934,Concentration multiwalled carbon nanotube,Ln transformed,-4.56,,natural log of kilograms/cube meter,,NULL,NULL,51,10.1021/acs.est.7b01477
+191935,Concentration multiwalled carbon nanotube,Ln transformed,-4.598,,natural log of kilograms/cube meter,,NULL,NULL,51,10.1021/acs.est.7b01477
+191936,Concentration multiwalled carbon nanotube,Ln transformed,-4.69,,natural log of kilograms/cube meter,,NULL,NULL,52,10.1021/acs.est.7b01477
+191937,Concentration multiwalled carbon nanotube,Ln transformed,-4.662,,natural log of kilograms/cube meter,,NULL,NULL,52,10.1021/acs.est.7b01477
+191938,Concentration multiwalled carbon nanotube,Ln transformed,-4.604,,natural log of kilograms/cube meter,,NULL,NULL,52,10.1021/acs.est.7b01477
+191939,Concentration multiwalled carbon nanotube,Ln transformed,-4.698,,natural log of kilograms/cube meter,,NULL,NULL,53,10.1021/acs.est.7b01477
+191940,Concentration multiwalled carbon nanotube,Ln transformed,-4.727,,natural log of kilograms/cube meter,,NULL,NULL,53,10.1021/acs.est.7b01477
+191941,Concentration multiwalled carbon nanotube,Ln transformed,-4.792,,natural log of kilograms/cube meter,,NULL,NULL,53,10.1021/acs.est.7b01477
+191942,Concentration multiwalled carbon nanotube,Ln transformed,-4.817,,natural log of kilograms/cube meter,,NULL,NULL,54,10.1021/acs.est.7b01477
+191943,Concentration multiwalled carbon nanotube,Ln transformed,-4.843,,natural log of kilograms/cube meter,,NULL,NULL,54,10.1021/acs.est.7b01477
+191944,Concentration multiwalled carbon nanotube,Ln transformed,-4.916,,natural log of kilograms/cube meter,,NULL,NULL,54,10.1021/acs.est.7b01477
+191945,Concentration multiwalled carbon nanotube,Ln transformed,-4.956,,natural log of kilograms/cube meter,,NULL,NULL,55,10.1021/acs.est.7b01477
+191946,Concentration multiwalled carbon nanotube,Ln transformed,-4.974,,natural log of kilograms/cube meter,,NULL,NULL,55,10.1021/acs.est.7b01477
+191947,Concentration multiwalled carbon nanotube,Ln transformed,-4.882,,natural log of kilograms/cube meter,,NULL,NULL,55,10.1021/acs.est.7b01477
+191948,Hydrodynamic diameter,,187.5,,nanometers,,NULL,NULL,56,10.1021/acs.est.7b01477
+191949,Hydrodynamic diameter,,178.333,,nanometers,,NULL,NULL,57,10.1021/acs.est.7b01477
+191950,Hydrodynamic diameter,,175,,nanometers,,NULL,NULL,57,10.1021/acs.est.7b01477
+191951,Hydrodynamic diameter,,173.333,,nanometers,,NULL,NULL,58,10.1021/acs.est.7b01477
+191952,Hydrodynamic diameter,,177.5,,nanometers,,NULL,NULL,59,10.1021/acs.est.7b01477
+191953,Hydrodynamic diameter,,174.167,,nanometers,,NULL,NULL,59,10.1021/acs.est.7b01477
+191954,Hydrodynamic diameter,,180,,nanometers,,NULL,NULL,60,10.1021/acs.est.7b01477
+191955,Hydrodynamic diameter,,177.5,,nanometers,,NULL,NULL,60,10.1021/acs.est.7b01477
+191956,Hydrodynamic diameter,,183.333,,nanometers,,NULL,NULL,61,10.1021/acs.est.7b01477
+191957,Hydrodynamic diameter,,175.833,,nanometers,,NULL,NULL,61,10.1021/acs.est.7b01477
+191958,Hydrodynamic diameter,,173.333,,nanometers,,NULL,NULL,62,10.1021/acs.est.7b01477
+191959,Hydrodynamic diameter,,178.333,,nanometers,,NULL,NULL,62,10.1021/acs.est.7b01477
+191960,Hydrodynamic diameter,,183.333,,nanometers,,NULL,NULL,63,10.1021/acs.est.7b01477
+191961,Hydrodynamic diameter,,177.5,,nanometers,,NULL,NULL,63,10.1021/acs.est.7b01477
+191962,Hydrodynamic diameter,,175,,nanometers,,NULL,NULL,64,10.1021/acs.est.7b01477
+191963,Hydrodynamic diameter,,173.333,,nanometers,,NULL,NULL,65,10.1021/acs.est.7b01477
+191964,Hydrodynamic diameter,,168.333,,nanometers,,NULL,NULL,65,10.1021/acs.est.7b01477
+191965,Hydrodynamic diameter,,197.5,,nanometers,,NULL,NULL,66,10.1021/acs.est.7b01477
+191966,Hydrodynamic diameter,,170.833,,nanometers,,NULL,NULL,67,10.1021/acs.est.7b01477
+191967,Hydrodynamic diameter,,170,,nanometers,,NULL,NULL,67,10.1021/acs.est.7b01477
+191968,Hydrodynamic diameter,,171.667,,nanometers,,NULL,NULL,68,10.1021/acs.est.7b01477
+191969,Hydrodynamic diameter,,170.833,,nanometers,,NULL,NULL,68,10.1021/acs.est.7b01477
+191970,Hydrodynamic diameter,,171.667,,nanometers,,NULL,NULL,69,10.1021/acs.est.7b01477
+191971,Hydrodynamic diameter,,175.833,,nanometers,,NULL,NULL,69,10.1021/acs.est.7b01477
+191972,Hydrodynamic diameter,,179.167,,nanometers,,NULL,NULL,70,10.1021/acs.est.7b01477
+191973,Hydrodynamic diameter,,176.667,,nanometers,,NULL,NULL,70,10.1021/acs.est.7b01477
+191974,Hydrodynamic diameter,,171.667,,nanometers,,NULL,NULL,71,10.1021/acs.est.7b01477
+191975,Hydrodynamic diameter,,168.333,,nanometers,,NULL,NULL,71,10.1021/acs.est.7b01477
+191976,Hydrodynamic diameter,,166.667,,nanometers,,NULL,NULL,71,10.1021/acs.est.7b01477
+191977,Hydrodynamic diameter,,171.667,,nanometers,,NULL,NULL,72,10.1021/acs.est.7b01477
+191978,Hydrodynamic diameter,,168.333,,nanometers,,NULL,NULL,72,10.1021/acs.est.7b01477
+191979,Hydrodynamic diameter,,173.333,,nanometers,,NULL,NULL,73,10.1021/acs.est.7b01477
+191980,Hydrodynamic diameter,,169.167,,nanometers,,NULL,NULL,73,10.1021/acs.est.7b01477
+191981,Hydrodynamic diameter,,168.333,,nanometers,,NULL,NULL,73,10.1021/acs.est.7b01477
+191982,Hydrodynamic diameter,,170,,nanometers,,NULL,NULL,74,10.1021/acs.est.7b01477
+191983,Hydrodynamic diameter,,166.667,,nanometers,,NULL,NULL,74,10.1021/acs.est.7b01477
+191984,Hydrodynamic diameter,,163.333,,nanometers,,NULL,NULL,74,10.1021/acs.est.7b01477
+191985,Hydrodynamic diameter,,165,,nanometers,,NULL,NULL,75,10.1021/acs.est.7b01477
+191986,Hydrodynamic diameter,,163.333,,nanometers,,NULL,NULL,75,10.1021/acs.est.7b01477
+191987,Hydrodynamic diameter,,222.5,,nanometers,,NULL,NULL,76,10.1021/acs.est.7b01477
+191988,Hydrodynamic diameter,,186.667,,nanometers,,NULL,NULL,77,10.1021/acs.est.7b01477
+191989,Hydrodynamic diameter,,184.167,,nanometers,,NULL,NULL,77,10.1021/acs.est.7b01477
+191990,Hydrodynamic diameter,,182.5,,nanometers,,NULL,NULL,78,10.1021/acs.est.7b01477
+191991,Hydrodynamic diameter,,180.833,,nanometers,,NULL,NULL,78,10.1021/acs.est.7b01477
+191992,Hydrodynamic diameter,,177.5,,nanometers,,NULL,NULL,78,10.1021/acs.est.7b01477
+191993,Hydrodynamic diameter,,190.833,,nanometers,,NULL,NULL,79,10.1021/acs.est.7b01477
+191994,Hydrodynamic diameter,,186.667,,nanometers,,NULL,NULL,79,10.1021/acs.est.7b01477
+191995,Hydrodynamic diameter,,184.167,,nanometers,,NULL,NULL,79,10.1021/acs.est.7b01477
+191996,Hydrodynamic diameter,,189.167,,nanometers,,NULL,NULL,80,10.1021/acs.est.7b01477
+191997,Hydrodynamic diameter,,187.5,,nanometers,,NULL,NULL,80,10.1021/acs.est.7b01477
+191998,Hydrodynamic diameter,,179.167,,nanometers,,NULL,NULL,81,10.1021/acs.est.7b01477
+191999,Hydrodynamic diameter,,175,,nanometers,,NULL,NULL,81,10.1021/acs.est.7b01477
+192000,Hydrodynamic diameter,,179.167,,nanometers,,NULL,NULL,82,10.1021/acs.est.7b01477
+192001,Hydrodynamic diameter,,178.333,,nanometers,,NULL,NULL,82,10.1021/acs.est.7b01477
+192002,Hydrodynamic diameter,,175.833,,nanometers,,NULL,NULL,82,10.1021/acs.est.7b01477
+192003,Hydrodynamic diameter,,173.333,,nanometers,,NULL,NULL,83,10.1021/acs.est.7b01477
+192004,Hydrodynamic diameter,,169.167,,nanometers,,NULL,NULL,83,10.1021/acs.est.7b01477
+192005,Hydrodynamic diameter,,170.833,,nanometers,,NULL,NULL,84,10.1021/acs.est.7b01477
+192006,Hydrodynamic diameter,,167.5,,nanometers,,NULL,NULL,84,10.1021/acs.est.7b01477
+192007,Hydrodynamic diameter,,165.833,,nanometers,,NULL,NULL,84,10.1021/acs.est.7b01477
+192008,Hydrodynamic diameter,,167.5,,nanometers,,NULL,NULL,85,10.1021/acs.est.7b01477
+192009,Hydrodynamic diameter,,162.5,,nanometers,,NULL,NULL,85,10.1021/acs.est.7b01477
+192010,Hydrodynamic diameter,,160.833,,nanometers,,NULL,NULL,85,10.1021/acs.est.7b01477
+192011,Mass fraction,,1,,ratio,,NULL,NULL,86,10.1021/acs.est.7b01477
+192012,Mass fraction,,0.00000003,,ratio,,NULL,NULL,87,10.1021/acs.est.7b01477
+192013,Mass fraction,,0.000000291,,ratio,,NULL,NULL,88,10.1021/acs.est.7b01477
+192014,Mass fraction,,0.000000082,,ratio,,NULL,NULL,89,10.1021/acs.est.7b01477
+192015,Mass fraction,,0.00071,,ratio,,NULL,NULL,90,10.1021/acs.est.7b01477
+192016,Mass fraction,,0.000772453,,ratio,,NULL,NULL,91,10.1021/acs.est.7b01477
+192017,Mass fraction,,0.000346773,,ratio,,NULL,NULL,92,10.1021/acs.est.7b01477
+192018,Mass fraction,,1,,ratio,,NULL,NULL,93,10.1021/acs.est.7b01477
+192019,Mass fraction,,0.000000191,,ratio,,NULL,NULL,94,10.1021/acs.est.7b01477
+192020,Mass fraction,,0.000002299,,ratio,,NULL,NULL,95,10.1021/acs.est.7b01477
+192021,Mass fraction,,0.000000622,,ratio,,NULL,NULL,96,10.1021/acs.est.7b01477
+192022,Mass fraction,,0.0160675,,ratio,,NULL,NULL,97,10.1021/acs.est.7b01477
+192023,Mass fraction,,0.0215822,,ratio,,NULL,NULL,98,10.1021/acs.est.7b01477
+192024,Mass fraction,,0.00928888,,ratio,,NULL,NULL,99,10.1021/acs.est.7b01477
+192025,Mass fraction,,0.776533,,ratio,,NULL,NULL,100,10.1021/acs.est.7b01477
+192026,Mass fraction,,0.000000331,,ratio,,NULL,NULL,101,10.1021/acs.est.7b01477
+192027,Mass fraction,,0.000005121,,ratio,,NULL,NULL,102,10.1021/acs.est.7b01477
+192028,Mass fraction,,0.000001329,,ratio,,NULL,NULL,103,10.1021/acs.est.7b01477
+192029,Mass fraction,,0.0702558,,ratio,,NULL,NULL,104,10.1021/acs.est.7b01477
+192030,Mass fraction,,0.121526,,ratio,,NULL,NULL,105,10.1021/acs.est.7b01477
+192031,Mass fraction,,0.0523041,,ratio,,NULL,NULL,106,10.1021/acs.est.7b01477
+192032,Attachment efficiency (alpha),,104000,,ratio,,NULL,NULL,107,10.1021/acs.est.7b01477
+192033,Attachment efficiency (alpha),,107000,,ratio,,NULL,NULL,108,10.1021/acs.est.7b01477
+192034,Attachment efficiency (alpha),,183000,,ratio,,NULL,NULL,109,10.1021/acs.est.7b01477
+192035,Attachment efficiency (alpha),,79000,,ratio,,NULL,NULL,110,10.1021/acs.est.7b01477
+192036,Attachment efficiency (alpha),,92000,,ratio,,NULL,NULL,111,10.1021/acs.est.7b01477
+192037,Attachment efficiency (alpha),,116000,,ratio,,NULL,NULL,112,10.1021/acs.est.7b01477
+192038,Concentration sodium ions,,0.3068,,millimolar,standard deviation,0.0143,NULL,113,10.1021/acs.est.7b01477
+192039,Concentration magnesium ions,,0.0433,,millimolar,standard deviation,0.0022,NULL,113,10.1021/acs.est.7b01477
+192040,Concentration potassium ions,,0.02,,millimolar,standard deviation,0.0014,NULL,113,10.1021/acs.est.7b01477
+192041,Concentration calcium ions,,0.1865,,millimolar,standard deviation,0.0121,NULL,113,10.1021/acs.est.7b01477
+192042,Concentration iron ions,,0.0065,,millimolar,standard deviation,0.0006,NULL,113,10.1021/acs.est.7b01477
+192043,Hydrodynamic diameter,,189.1,,nanometers,standard deviation,6.4,NULL,114,10.1021/acs.est.7b01477
+192044,Hydrodynamic diameter,,197,,nanometers,standard deviation,9.5,NULL,115,10.1021/acs.est.7b01477
+192045,Hydrodynamic diameter,,193.5,,nanometers,standard deviation,7.5,NULL,116,10.1021/acs.est.7b01477
+192046,Hydrodynamic diameter,,224.1,,nanometers,standard deviation,11.6,NULL,117,10.1021/acs.est.7b01477
+192047,Hydrodynamic diameter,,193.1,,nanometers,standard deviation,7.5,NULL,118,10.1021/acs.est.7b01477
+192048,Hydrodynamic diameter,,194.1,,nanometers,standard deviation,8.5,NULL,119,10.1021/acs.est.7b01477
+192049,Hydrodynamic diameter,,200.8,,nanometers,standard deviation,10.4,NULL,120,10.1021/acs.est.7b01477
+192050,polydispersity index,,0.352,,ratio,,NULL,NULL,114,10.1021/acs.est.7b01477
+192051,polydispersity index,,0.304,,ratio,,NULL,NULL,115,10.1021/acs.est.7b01477
+192052,polydispersity index,,0.322,,ratio,,NULL,NULL,116,10.1021/acs.est.7b01477
+192053,polydispersity index,,0.261,,ratio,,NULL,NULL,117,10.1021/acs.est.7b01477
+192054,polydispersity index,,0.262,,ratio,,NULL,NULL,118,10.1021/acs.est.7b01477
+192055,polydispersity index,,0.302,,ratio,,NULL,NULL,119,10.1021/acs.est.7b01477
+192056,polydispersity index,,0.321,,ratio,,NULL,NULL,120,10.1021/acs.est.7b01477
+192057,electrophoretic mobility,,-0.000000213,,square meters/(volt*second),standard deviation,0.08,NULL,121,10.1021/acs.est.7b01477
+192058,electrophoretic mobility,,-0.000000225,,square meters/(volt*second),standard deviation,0.064,NULL,122,10.1021/acs.est.7b01477
+192059,electrophoretic mobility,,-0.000000211,,square meters/(volt*second),standard deviation,0.018,NULL,123,10.1021/acs.est.7b01477
+192060,electrophoretic mobility,,-0.000000227,,square meters/(volt*second),standard deviation,0.051,NULL,124,10.1021/acs.est.7b01477
+192061,electrophoretic mobility,,-0.000000203,,square meters/(volt*second),standard deviation,0.032,NULL,125,10.1021/acs.est.7b01477
+192062,electrophoretic mobility,,-0.000000203,,square meters/(volt*second),standard deviation,0.028,NULL,126,10.1021/acs.est.7b01477
+192063,electrophoretic mobility,,-0.000000203,,square meters/(volt*second),standard deviation,0.036,NULL,127,10.1021/acs.est.7b01477
+192064,zeta potential,,-27.2,,millivolts,standard deviation,1,NULL,121,10.1021/acs.est.7b01477
+192065,zeta potential,,-28.7,,millivolts,standard deviation,0.8,NULL,122,10.1021/acs.est.7b01477
+192066,zeta potential,,-26.9,,millivolts,standard deviation,0.2,NULL,123,10.1021/acs.est.7b01477
+192067,zeta potential,,-29,,millivolts,standard deviation,0.6,NULL,124,10.1021/acs.est.7b01477
+192068,zeta potential,,-26,,millivolts,standard deviation,0.4,NULL,125,10.1021/acs.est.7b01477
+192069,zeta potential,,-25.9,,millivolts,standard deviation,0.4,NULL,126,10.1021/acs.est.7b01477
+192070,zeta potential,,-25.9,,millivolts,standard deviation,0.5,NULL,127,10.1021/acs.est.7b01477
+193933,Electrophoretic Mobility,,-3.40948,,10^-8*square meters/(volt*second),,NULL,NULL,1,10.1021/acs.est.5b01041
+193934,Electrophoretic Mobility,,-3.24066,,10^-8*square meters/(volt*second),,NULL,NULL,2,10.1021/acs.est.5b01041
+193935,Electrophoretic Mobility,,-3.07517,,10^-8*square meters/(volt*second),,NULL,NULL,3,10.1021/acs.est.5b01041
+193936,Electrophoretic Mobility,,-1.85984,,10^-8*square meters/(volt*second),,NULL,NULL,4,10.1021/acs.est.5b01041
+193937,Electrophoretic Mobility,,-1.06727,,10^-8*square meters/(volt*second),,NULL,NULL,5,10.1021/acs.est.5b01041
+193938,Electrophoretic Mobility,,-3.90367,,10^-8*square meters/(volt*second),,NULL,NULL,6,10.1021/acs.est.5b01041
+193939,Electrophoretic Mobility,,-3.49399,,10^-8*square meters/(volt*second),,NULL,NULL,7,10.1021/acs.est.5b01041
+193940,Electrophoretic Mobility,,-3.17069,,10^-8*square meters/(volt*second),,NULL,NULL,8,10.1021/acs.est.5b01041
+193941,Electrophoretic Mobility,,-2.05503,,10^-8*square meters/(volt*second),,NULL,NULL,9,10.1021/acs.est.5b01041
+193942,Electrophoretic Mobility,,-1.33721,,10^-8*square meters/(volt*second),,NULL,NULL,10,10.1021/acs.est.5b01041
+193943,Electrophoretic Mobility,,-4.24835,,10^-8*square meters/(volt*second),,NULL,NULL,11,10.1021/acs.est.5b01041
+193944,Electrophoretic Mobility,,-3.62687,,10^-8*square meters/(volt*second),,NULL,NULL,12,10.1021/acs.est.5b01041
+193945,Electrophoretic Mobility,,-3.56936,,10^-8*square meters/(volt*second),,NULL,NULL,13,10.1021/acs.est.5b01041
+193946,Electrophoretic Mobility,,-2.37479,,10^-8*square meters/(volt*second),,NULL,NULL,14,10.1021/acs.est.5b01041
+193947,Electrophoretic Mobility,,-2.07641,,10^-8*square meters/(volt*second),,NULL,NULL,15,10.1021/acs.est.5b01041
+193948,Electrophoretic Mobility,,-4.16529,,10^-8*square meters/(volt*second),,NULL,NULL,16,10.1021/acs.est.5b01041
+193949,Electrophoretic Mobility,,-3.49398,,10^-8*square meters/(volt*second),,NULL,NULL,17,10.1021/acs.est.5b01041
+193950,Electrophoretic Mobility,,-3.36587,,10^-8*square meters/(volt*second),,NULL,NULL,18,10.1021/acs.est.5b01041
+193951,Electrophoretic Mobility,,-2.47861,,10^-8*square meters/(volt*second),,NULL,NULL,19,10.1021/acs.est.5b01041
+193952,Electrophoretic Mobility,,-2.22176,,10^-8*square meters/(volt*second),,NULL,NULL,20,10.1021/acs.est.5b01041
+193953,attachment efficiency (alpha),,0.00232423,,ratio,,NULL,NULL,21,10.1021/acs.est.5b01041
+193954,attachment efficiency (alpha),,0.0358085,,ratio,,NULL,NULL,22,10.1021/acs.est.5b01041
+193955,attachment efficiency (alpha),,0.0931685,,ratio,,NULL,NULL,23,10.1021/acs.est.5b01041
+193956,attachment efficiency (alpha),,0.28794,,ratio,,NULL,NULL,24,10.1021/acs.est.5b01041
+193957,attachment efficiency (alpha),,0.335542,,ratio,,NULL,NULL,25,10.1021/acs.est.5b01041
+193958,attachment efficiency (alpha),,0.501379,,ratio,,NULL,NULL,26,10.1021/acs.est.5b01041
+193959,attachment efficiency (alpha),,0.595548,,ratio,,NULL,NULL,27,10.1021/acs.est.5b01041
+193960,attachment efficiency (alpha),,0.756376,,ratio,,NULL,NULL,28,10.1021/acs.est.5b01041
+193961,attachment efficiency (alpha),,0.808737,,ratio,,NULL,NULL,29,10.1021/acs.est.5b01041
+193962,attachment efficiency (alpha),,0.988591,,ratio,,NULL,NULL,30,10.1021/acs.est.5b01041
+193963,attachment efficiency (alpha),,1.01736,,ratio,,NULL,NULL,31,10.1021/acs.est.5b01041
+193964,attachment efficiency (alpha),,0.998089,,ratio,,NULL,NULL,32,10.1021/acs.est.5b01041
+193965,attachment efficiency (alpha),,0.000407817,,ratio,,NULL,NULL,33,10.1021/acs.est.5b01041
+193966,attachment efficiency (alpha),,0.00490004,,ratio,,NULL,NULL,34,10.1021/acs.est.5b01041
+193967,attachment efficiency (alpha),,0.0273973,,ratio,,NULL,NULL,35,10.1021/acs.est.5b01041
+193968,attachment efficiency (alpha),,0.109614,,ratio,,NULL,NULL,36,10.1021/acs.est.5b01041
+193969,attachment efficiency (alpha),,0.43025,,ratio,,NULL,NULL,37,10.1021/acs.est.5b01041
+193970,attachment efficiency (alpha),,0.824353,,ratio,,NULL,NULL,38,10.1021/acs.est.5b01041
+193971,attachment efficiency (alpha),,1.05703,,ratio,,NULL,NULL,39,10.1021/acs.est.5b01041
+193972,attachment efficiency (alpha),,0.998089,,ratio,,NULL,NULL,40,10.1021/acs.est.5b01041
+193973,attachment efficiency (alpha),,0.00118131,,ratio,,NULL,NULL,41,10.1021/acs.est.5b01041
+193974,attachment efficiency (alpha),,0.00791129,,ratio,,NULL,NULL,42,10.1021/acs.est.5b01041
+193975,attachment efficiency (alpha),,0.0186896,,ratio,,NULL,NULL,43,10.1021/acs.est.5b01041
+193976,attachment efficiency (alpha),,0.0351172,,ratio,,NULL,NULL,44,10.1021/acs.est.5b01041
+193977,attachment efficiency (alpha),,0.147301,,ratio,,NULL,NULL,45,10.1021/acs.est.5b01041
+193978,attachment efficiency (alpha),,0.361623,,ratio,,NULL,NULL,46,10.1021/acs.est.5b01041
+193979,attachment efficiency (alpha),,0.846403,,ratio,,NULL,NULL,47,10.1021/acs.est.5b01041
+193980,attachment efficiency (alpha),,0.930846,,ratio,,NULL,NULL,48,10.1021/acs.est.5b01041
+193981,attachment efficiency (alpha),,0.994764,,ratio,,NULL,NULL,49,10.1021/acs.est.5b01041
+193982,attachment efficiency (alpha),,1.03307,,ratio,,NULL,NULL,50,10.1021/acs.est.5b01041
+193983,attachment efficiency (alpha),,0.00104399,,ratio,,NULL,NULL,51,10.1021/acs.est.5b01041
+193984,attachment efficiency (alpha),,0.00368147,,ratio,,NULL,NULL,52,10.1021/acs.est.5b01041
+193985,attachment efficiency (alpha),,0.0686098,,ratio,,NULL,NULL,53,10.1021/acs.est.5b01041
+193986,attachment efficiency (alpha),,0.151674,,ratio,,NULL,NULL,54,10.1021/acs.est.5b01041
+193987,attachment efficiency (alpha),,0.23311,,ratio,,NULL,NULL,55,10.1021/acs.est.5b01041
+193988,attachment efficiency (alpha),,0.351397,,ratio,,NULL,NULL,56,10.1021/acs.est.5b01041
+193989,attachment efficiency (alpha),,0.666053,,ratio,,NULL,NULL,57,10.1021/acs.est.5b01041
+193990,attachment efficiency (alpha),,0.746335,,ratio,,NULL,NULL,58,10.1021/acs.est.5b01041
+193991,attachment efficiency (alpha),,0.974732,,ratio,,NULL,NULL,59,10.1021/acs.est.5b01041
+193992,attachment efficiency (alpha),,0.945183,,ratio,,NULL,NULL,60,10.1021/acs.est.5b01041
+193993,attachment efficiency (alpha),,0.962378,,ratio,,NULL,NULL,61,10.1021/acs.est.5b01041
+193994,attachment efficiency (alpha),,0.989546,,ratio,,NULL,NULL,62,10.1021/acs.est.5b01041
+193995,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,63,10.1021/acs.est.5b01041
+193996,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,64,10.1021/acs.est.5b01041
+193997,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,65,10.1021/acs.est.5b01041
+193998,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,66,10.1021/acs.est.5b01041
+193999,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,67,10.1021/acs.est.5b01041
+194000,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,68,10.1021/acs.est.5b01041
+194001,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,69,10.1021/acs.est.5b01041
+194002,"formation of cis,trans-hexadienoate",,0.0106952,,micromolar,,NULL,NULL,70,10.1021/acs.est.5b01041
+194003,"formation of cis,trans-hexadienoate",,0.0695187,,micromolar,,NULL,NULL,71,10.1021/acs.est.5b01041
+194004,"formation of cis,trans-hexadienoate",,0.165775,,micromolar,,NULL,NULL,72,10.1021/acs.est.5b01041
+194005,"formation of cis,trans-hexadienoate",,0.336898,,micromolar,,NULL,NULL,73,10.1021/acs.est.5b01041
+194006,"formation of cis,trans-hexadienoate",,0.545455,,micromolar,,NULL,NULL,74,10.1021/acs.est.5b01041
+194007,"formation of cis,trans-hexadienoate",,0.625668,,micromolar,,NULL,NULL,75,10.1021/acs.est.5b01041
+194008,"formation of cis,trans-hexadienoate",,0.786096,,micromolar,,NULL,NULL,76,10.1021/acs.est.5b01041
+194009,"formation of cis,trans-hexadienoate",,8.88E-16,,micromolar,,NULL,NULL,77,10.1021/acs.est.5b01041
+194010,"formation of cis,trans-hexadienoate",,0.336898,,micromolar,,NULL,NULL,78,10.1021/acs.est.5b01041
+194011,"formation of cis,trans-hexadienoate",,0.860963,,micromolar,,NULL,NULL,79,10.1021/acs.est.5b01041
+194012,"formation of cis,trans-hexadienoate",,1.41176,,micromolar,,NULL,NULL,80,10.1021/acs.est.5b01041
+194013,"formation of cis,trans-hexadienoate",,1.86631,,micromolar,,NULL,NULL,81,10.1021/acs.est.5b01041
+194014,"formation of cis,trans-hexadienoate",,2.06952,,micromolar,,NULL,NULL,82,10.1021/acs.est.5b01041
+194015,"formation of cis,trans-hexadienoate",,2.49198,,micromolar,,NULL,NULL,83,10.1021/acs.est.5b01041
+194016,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,84,10.1021/acs.est.5b01041
+194017,"formation of cis,trans-hexadienoate",,12.0635,,micromolar,,NULL,NULL,85,10.1021/acs.est.5b01041
+194018,"formation of cis,trans-hexadienoate",,17.6543,,micromolar,,NULL,NULL,86,10.1021/acs.est.5b01041
+194019,"formation of cis,trans-hexadienoate",,17.8836,,micromolar,,NULL,NULL,87,10.1021/acs.est.5b01041
+194020,"formation of cis,trans-hexadienoate",,17.7954,,micromolar,,NULL,NULL,88,10.1021/acs.est.5b01041
+194021,"formation of cis,trans-hexadienoate",,15.9083,,micromolar,,NULL,NULL,89,10.1021/acs.est.5b01041
+194022,"formation of cis,trans-hexadienoate",,17.1076,,micromolar,,NULL,NULL,90,10.1021/acs.est.5b01041
+194023,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,91,10.1021/acs.est.5b01041
+194024,"formation of cis,trans-hexadienoate",,0.306905,,micromolar,,NULL,NULL,92,10.1021/acs.est.5b01041
+194025,"formation of cis,trans-hexadienoate",,0.426257,,micromolar,,NULL,NULL,93,10.1021/acs.est.5b01041
+194026,"formation of cis,trans-hexadienoate",,0.460358,,micromolar,,NULL,NULL,94,10.1021/acs.est.5b01041
+194027,"formation of cis,trans-hexadienoate",,0.54561,,micromolar,,NULL,NULL,95,10.1021/acs.est.5b01041
+194028,"formation of cis,trans-hexadienoate",,0.733163,,micromolar,,NULL,NULL,96,10.1021/acs.est.5b01041
+194029,"formation of cis,trans-hexadienoate",,0.784314,,micromolar,,NULL,NULL,97,10.1021/acs.est.5b01041
+194030,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,98,10.1021/acs.est.5b01041
+194031,"formation of cis,trans-hexadienoate",,1.12532,,micromolar,,NULL,NULL,99,10.1021/acs.est.5b01041
+194032,"formation of cis,trans-hexadienoate",,1.68798,,micromolar,,NULL,NULL,100,10.1021/acs.est.5b01041
+194033,"formation of cis,trans-hexadienoate",,2.04604,,micromolar,,NULL,NULL,101,10.1021/acs.est.5b01041
+194034,"formation of cis,trans-hexadienoate",,2.6428,,micromolar,,NULL,NULL,102,10.1021/acs.est.5b01041
+194035,"formation of cis,trans-hexadienoate",,3.27366,,micromolar,,NULL,NULL,103,10.1021/acs.est.5b01041
+194036,"formation of cis,trans-hexadienoate",,3.18841,,micromolar,,NULL,NULL,104,10.1021/acs.est.5b01041
+194037,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,105,10.1021/acs.est.5b01041
+194038,"formation of cis,trans-hexadienoate",,1.65388,,micromolar,,NULL,NULL,106,10.1021/acs.est.5b01041
+194039,"formation of cis,trans-hexadienoate",,2.9497,,micromolar,,NULL,NULL,107,10.1021/acs.est.5b01041
+194040,"formation of cis,trans-hexadienoate",,4.60358,,micromolar,,NULL,NULL,108,10.1021/acs.est.5b01041
+194041,"formation of cis,trans-hexadienoate",,5.9676,,micromolar,,NULL,NULL,109,10.1021/acs.est.5b01041
+194042,"formation of cis,trans-hexadienoate",,6.82012,,micromolar,,NULL,NULL,110,10.1021/acs.est.5b01041
+194043,"formation of cis,trans-hexadienoate",,7.19523,,micromolar,,NULL,NULL,111,10.1021/acs.est.5b01041
+194044,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,112,10.1021/acs.est.5b01041
+194045,"formation of cis,trans-hexadienoate",,8.815,,micromolar,,NULL,NULL,113,10.1021/acs.est.5b01041
+194046,"formation of cis,trans-hexadienoate",,12.0887,,micromolar,,NULL,NULL,114,10.1021/acs.est.5b01041
+194047,"formation of cis,trans-hexadienoate",,14.8338,,micromolar,,NULL,NULL,115,10.1021/acs.est.5b01041
+194048,"formation of cis,trans-hexadienoate",,16.5388,,micromolar,,NULL,NULL,116,10.1021/acs.est.5b01041
+194049,"formation of cis,trans-hexadienoate",,17.0673,,micromolar,,NULL,NULL,117,10.1021/acs.est.5b01041
+194050,"formation of cis,trans-hexadienoate",,16.1466,,micromolar,,NULL,NULL,118,10.1021/acs.est.5b01041
+194051,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,119,10.1021/acs.est.5b01041
+194052,"formation of cis,trans-hexadienoate",,10.1108,,micromolar,,NULL,NULL,120,10.1021/acs.est.5b01041
+194053,"formation of cis,trans-hexadienoate",,14.6292,,micromolar,,NULL,NULL,121,10.1021/acs.est.5b01041
+194054,"formation of cis,trans-hexadienoate",,16.2148,,micromolar,,NULL,NULL,122,10.1021/acs.est.5b01041
+194055,"formation of cis,trans-hexadienoate",,17.272,,micromolar,,NULL,NULL,123,10.1021/acs.est.5b01041
+194056,"formation of cis,trans-hexadienoate",,16.7945,,micromolar,,NULL,NULL,124,10.1021/acs.est.5b01041
+194057,"formation of cis,trans-hexadienoate",,16.1125,,micromolar,,NULL,NULL,125,10.1021/acs.est.5b01041
+194058,"formation of cis,trans-hexadienoate",,0,,micromolar,,NULL,NULL,126,10.1021/acs.est.5b01041
+194059,"formation of cis,trans-hexadienoate",,14.4587,,micromolar,,NULL,NULL,127,10.1021/acs.est.5b01041
+194060,"formation of cis,trans-hexadienoate",,16.9821,,micromolar,,NULL,NULL,128,10.1021/acs.est.5b01041
+194061,"formation of cis,trans-hexadienoate",,19.2668,,micromolar,,NULL,NULL,129,10.1021/acs.est.5b01041
+194062,"formation of cis,trans-hexadienoate",,19.5737,,micromolar,,NULL,NULL,130,10.1021/acs.est.5b01041
+194063,"formation of cis,trans-hexadienoate",,19.2327,,micromolar,,NULL,NULL,131,10.1021/acs.est.5b01041
+194064,"formation of cis,trans-hexadienoate",,18.8576,,micromolar,,NULL,NULL,132,10.1021/acs.est.5b01041
+194065,"formation of cis,trans-hexadienoate",,0.174822,,ratio,,NULL,NULL,133,10.1021/acs.est.5b01041
+194066,"formation of cis,trans-hexadienoate",,0.190024,,ratio,,NULL,NULL,134,10.1021/acs.est.5b01041
+194067,"formation of cis,trans-hexadienoate",,0.214252,,ratio,,NULL,NULL,135,10.1021/acs.est.5b01041
+194068,"formation of cis,trans-hexadienoate",,0.257007,,ratio,,NULL,NULL,136,10.1021/acs.est.5b01041
+194069,"formation of cis,trans-hexadienoate",,0.174822,,ratio,,NULL,NULL,137,10.1021/acs.est.5b01041
+194070,"formation of cis,trans-hexadienoate",,0.189549,,ratio,,NULL,NULL,138,10.1021/acs.est.5b01041
+194071,"formation of cis,trans-hexadienoate",,0.218052,,ratio,,NULL,NULL,139,10.1021/acs.est.5b01041
+194072,"formation of cis,trans-hexadienoate",,0.260333,,ratio,,NULL,NULL,140,10.1021/acs.est.5b01041
+194073,"formation of cis,cis-hexadienoate",,0.145843,,ratio,,NULL,NULL,141,10.1021/acs.est.5b01041
+194074,"formation of cis,cis-hexadienoate",,0.114014,,ratio,,NULL,NULL,142,10.1021/acs.est.5b01041
+194075,"formation of cis,cis-hexadienoate",,0.102138,,ratio,,NULL,NULL,143,10.1021/acs.est.5b01041
+194076,"formation of cis,cis-hexadienoate",,0.125891,,ratio,,NULL,NULL,144,10.1021/acs.est.5b01041
+194077,"formation of cis,cis-hexadienoate",,0.147743,,ratio,,NULL,NULL,145,10.1021/acs.est.5b01041
+194078,"formation of cis,cis-hexadienoate",,0.114014,,ratio,,NULL,NULL,146,10.1021/acs.est.5b01041
+194079,"formation of cis,cis-hexadienoate",,0.095962,,ratio,,NULL,NULL,147,10.1021/acs.est.5b01041
+194080,"formation of cis,cis-hexadienoate",,0.117815,,ratio,,NULL,NULL,148,10.1021/acs.est.5b01041
+194081,"formation of cis,cis-hexadienoate",,0.144418,,ratio,,NULL,NULL,149,10.1021/acs.est.5b01041
+194082,"formation of cis,cis-hexadienoate",,0.126366,,ratio,,NULL,NULL,150,10.1021/acs.est.5b01041
+194083,"formation of cis,cis-hexadienoate",,0.128741,,ratio,,NULL,NULL,151,10.1021/acs.est.5b01041
+194084,"formation of cis,cis-hexadienoate",,0.129216,,ratio,,NULL,NULL,152,10.1021/acs.est.5b01041
+194085,"formation of cis,cis-hexadienoate",,0.142993,,ratio,,NULL,NULL,153,10.1021/acs.est.5b01041
+194086,"formation of cis,cis-hexadienoate",,0.125891,,ratio,,NULL,NULL,154,10.1021/acs.est.5b01041
+194087,"formation of cis,cis-hexadienoate",,0.122565,,ratio,,NULL,NULL,155,10.1021/acs.est.5b01041
+194088,"formation of cis,cis-hexadienoate",,0.122565,,ratio,,NULL,NULL,156,10.1021/acs.est.5b01041
+194089,"formation of trans,trans-hexakienoate",,0.537415,,ratio,,NULL,NULL,157,10.1021/acs.est.5b01041
+194090,"formation of trans,trans-hexakienoate",,0.572336,,ratio,,NULL,NULL,158,10.1021/acs.est.5b01041
+194091,"formation of trans,trans-hexakienoate",,0.556009,,ratio,,NULL,NULL,159,10.1021/acs.est.5b01041
+194092,"formation of trans,trans-hexakienoate",,0.490703,,ratio,,NULL,NULL,160,10.1021/acs.est.5b01041
+194093,"formation of trans,trans-hexakienoate",,0.538322,,ratio,,NULL,NULL,161,10.1021/acs.est.5b01041
+194094,"formation of trans,trans-hexakienoate",,0.572336,,ratio,,NULL,NULL,162,10.1021/acs.est.5b01041
+194095,"formation of trans,trans-hexakienoate",,0.565533,,ratio,,NULL,NULL,163,10.1021/acs.est.5b01041
+194096,"formation of trans,trans-hexakienoate",,0.501134,,ratio,,NULL,NULL,164,10.1021/acs.est.5b01041
+194097,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.995847,,ratio to control,,NULL,NULL,165,10.1021/acs.est.5b01041
+194098,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.983338,,ratio to control,,NULL,NULL,166,10.1021/acs.est.5b01041
+194099,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.971557,,ratio to control,,NULL,NULL,167,10.1021/acs.est.5b01041
+194100,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.90572,,ratio to control,,NULL,NULL,168,10.1021/acs.est.5b01041
+194101,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.876477,,ratio to control,,NULL,NULL,169,10.1021/acs.est.5b01041
+194102,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.880457,,ratio to control,,NULL,NULL,170,10.1021/acs.est.5b01041
+194103,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.997509,,ratio to control,,NULL,NULL,171,10.1021/acs.est.5b01041
+194104,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.974992,,ratio to control,,NULL,NULL,172,10.1021/acs.est.5b01041
+194105,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.91757,,ratio to control,,NULL,NULL,173,10.1021/acs.est.5b01041
+194106,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.867515,,ratio to control,,NULL,NULL,174,10.1021/acs.est.5b01041
+194107,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.811693,,ratio to control,,NULL,NULL,175,10.1021/acs.est.5b01041
+194108,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.773313,,ratio to control,,NULL,NULL,176,10.1021/acs.est.5b01041
+194109,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.995847,,ratio to control,,NULL,NULL,177,10.1021/acs.est.5b01041
+194110,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.982508,,ratio to control,,NULL,NULL,178,10.1021/acs.est.5b01041
+194111,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.915178,,ratio to control,,NULL,NULL,179,10.1021/acs.est.5b01041
+194112,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.769729,,ratio to control,,NULL,NULL,180,10.1021/acs.est.5b01041
+194113,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.634979,,ratio to control,,NULL,NULL,181,10.1021/acs.est.5b01041
+194114,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.562523,,ratio to control,,NULL,NULL,182,10.1021/acs.est.5b01041
+194115,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.510012,,ratio to control,,NULL,NULL,183,10.1021/acs.est.5b01041
+194116,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.999169,,ratio to control,,NULL,NULL,184,10.1021/acs.est.5b01041
+194117,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.910291,,ratio to control,,NULL,NULL,185,10.1021/acs.est.5b01041
+194118,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.836362,,ratio to control,,NULL,NULL,186,10.1021/acs.est.5b01041
+194119,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.684353,,ratio to control,,NULL,NULL,187,10.1021/acs.est.5b01041
+194120,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.548946,,ratio to control,,NULL,NULL,188,10.1021/acs.est.5b01041
+194121,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.422675,,ratio to control,,NULL,NULL,189,10.1021/acs.est.5b01041
+194122,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.99834,,ratio to control,,NULL,NULL,190,10.1021/acs.est.5b01041
+194123,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.762451,,ratio to control,,NULL,NULL,191,10.1021/acs.est.5b01041
+194124,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.637858,,ratio to control,,NULL,NULL,192,10.1021/acs.est.5b01041
+194125,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.423556,,ratio to control,,NULL,NULL,193,10.1021/acs.est.5b01041
+194126,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.242467,,ratio to control,,NULL,NULL,194,10.1021/acs.est.5b01041
+194127,"Loss of Singlet Oxygen acceptor, Furfuryl alcohol (FFA)",,0.140284,,ratio to control,,NULL,NULL,195,10.1021/acs.est.5b01041
+194128,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1,,ratio,,NULL,NULL,196,10.1021/acs.est.5b01041
+194129,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,0.982072,,ratio,,NULL,NULL,197,10.1021/acs.est.5b01041
+194130,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,0.85259,,ratio,,NULL,NULL,198,10.1021/acs.est.5b01041
+194131,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1.15139,,ratio,,NULL,NULL,199,10.1021/acs.est.5b01041
+194132,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1,,ratio,,NULL,NULL,200,10.1021/acs.est.5b01041
+194133,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1.01394,,ratio,,NULL,NULL,201,10.1021/acs.est.5b01041
+194134,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,0.770916,,ratio,,NULL,NULL,202,10.1021/acs.est.5b01041
+194135,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1.36454,,ratio,,NULL,NULL,203,10.1021/acs.est.5b01041
+194136,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1.00199,,ratio,,NULL,NULL,204,10.1021/acs.est.5b01041
+194137,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,0.982072,,ratio,,NULL,NULL,205,10.1021/acs.est.5b01041
+194138,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,1.10956,,ratio,,NULL,NULL,206,10.1021/acs.est.5b01041
+194139,"formation of CNT triplet state by transfer of energy to 2,4,-Hexa-2,4dienoic acid (HDA)",,0.842629,,ratio,,NULL,NULL,207,10.1021/acs.est.5b01041
+194140,product formation,,1.00428,,ratio,,NULL,NULL,208,10.1021/acs.est.5b01041
+194141,product formation,,1.10128,,ratio,,NULL,NULL,209,10.1021/acs.est.5b01041
+194142,product formation,,1.29244,,ratio,,NULL,NULL,210,10.1021/acs.est.5b01041
+194143,product formation,,1.28959,,ratio,,NULL,NULL,211,10.1021/acs.est.5b01041
+194144,"product formation, with desferal a metal chelator",,0.955777,,ratio,,NULL,NULL,212,10.1021/acs.est.5b01041
+194145,"product formation, with desferal a metal chelator",,1.14408,,ratio,,NULL,NULL,213,10.1021/acs.est.5b01041
+194146,product formation,,0.992867,,ratio,,NULL,NULL,214,10.1021/acs.est.5b01041
+194147,product formation,,0.990014,,ratio,,NULL,NULL,215,10.1021/acs.est.5b01041
+194148,product formation,,0.96719,,ratio,,NULL,NULL,216,10.1021/acs.est.5b01041
+194149,product formation,,1.08417,,ratio,,NULL,NULL,217,10.1021/acs.est.5b01041
+194150,"product formation, with desferal a metal chelator",,0.901569,,ratio,,NULL,NULL,218,10.1021/acs.est.5b01041
+194151,"product formation, with desferal a metal chelator",,1.0214,,ratio,,NULL,NULL,219,10.1021/acs.est.5b01041
+194152,product formation,,1.00143,,ratio,,NULL,NULL,220,10.1021/acs.est.5b01041
+194153,product formation,,1.22682,,ratio,,NULL,NULL,221,10.1021/acs.est.5b01041
+194154,product formation,,1.36662,,ratio,,NULL,NULL,222,10.1021/acs.est.5b01041
+194155,product formation,,1.27532,,ratio,,NULL,NULL,223,10.1021/acs.est.5b01041
+194156,caspase 3/7 activity,,23.8615,,Chemiluminescence units,,NULL,NULL,1,10.1016/j.neuro.2014.08.010
+194157,caspase 3/7 activity,,19.0679,,Chemiluminescence units,,NULL,NULL,2,10.1016/j.neuro.2014.08.010
+194158,caspase 3/7 activity,,21.731,,Chemiluminescence units,,NULL,NULL,3,10.1016/j.neuro.2014.08.010
+194159,caspase 3/7 activity,,19.3342,,Chemiluminescence units,,NULL,NULL,4,10.1016/j.neuro.2014.08.010
+194160,caspase 3/7 activity,,19.494,,Chemiluminescence units,,NULL,NULL,5,10.1016/j.neuro.2014.08.010
+194161,caspase 3/7 activity,,20.9321,,Chemiluminescence units,,NULL,NULL,6,10.1016/j.neuro.2014.08.010
+194162,caspase 3/7 activity,,20.719,,Chemiluminescence units,,NULL,NULL,7,10.1016/j.neuro.2014.08.010
+194163,caspase 3/7 activity,,20.1332,,Chemiluminescence units,,NULL,NULL,8,10.1016/j.neuro.2014.08.010
+194164,caspase 3/7 activity,,21.9973,,Chemiluminescence units,,NULL,NULL,9,10.1016/j.neuro.2014.08.010
+194165,caspase 3/7 activity,,19.8136,,Chemiluminescence units,,NULL,NULL,10,10.1016/j.neuro.2014.08.010
+194166,caspase 3/7 activity,,22.6365,,Chemiluminescence units,,NULL,NULL,11,10.1016/j.neuro.2014.08.010
+194167,caspase 3/7 activity,,20.2929,,Chemiluminescence units,,NULL,NULL,12,10.1016/j.neuro.2014.08.010
+194168,caspase 3/7 activity,,28.7617,,Chemiluminescence units,,NULL,NULL,13,10.1016/j.neuro.2014.08.010
+194169,caspase 3/7 activity,,26.5779,,Chemiluminescence units,,NULL,NULL,14,10.1016/j.neuro.2014.08.010
+194170,caspase 3/7 activity,,23.8083,,Chemiluminescence units,,NULL,NULL,15,10.1016/j.neuro.2014.08.010
+194171,caspase 3/7 activity,,25.9388,,Chemiluminescence units,,NULL,NULL,16,10.1016/j.neuro.2014.08.010
+194172,glutathione activity,,142.857,,Chemiluminescence units,,NULL,NULL,1,10.1016/j.neuro.2014.08.010
+194173,glutathione activity,,138.916,,Chemiluminescence units,,NULL,NULL,2,10.1016/j.neuro.2014.08.010
+194174,glutathione activity,,146.059,,Chemiluminescence units,,NULL,NULL,3,10.1016/j.neuro.2014.08.010
+194175,glutathione activity,,129.803,,Chemiluminescence units,,NULL,NULL,4,10.1016/j.neuro.2014.08.010
+194176,glutathione activity,,147.044,,Chemiluminescence units,,NULL,NULL,5,10.1016/j.neuro.2014.08.010
+194177,glutathione activity,,142.857,,Chemiluminescence units,,NULL,NULL,6,10.1016/j.neuro.2014.08.010
+194178,glutathione activity,,152.217,,Chemiluminescence units,,NULL,NULL,7,10.1016/j.neuro.2014.08.010
+194179,glutathione activity,,142.118,,Chemiluminescence units,,NULL,NULL,8,10.1016/j.neuro.2014.08.010
+194180,glutathione activity,,157.143,,Chemiluminescence units,,NULL,NULL,9,10.1016/j.neuro.2014.08.010
+194181,glutathione activity,,155.172,,Chemiluminescence units,,NULL,NULL,10,10.1016/j.neuro.2014.08.010
+194182,glutathione activity,,148.768,,Chemiluminescence units,,NULL,NULL,11,10.1016/j.neuro.2014.08.010
+194183,glutathione activity,,154.434,,Chemiluminescence units,,NULL,NULL,12,10.1016/j.neuro.2014.08.010
+194184,glutathione activity,,157.143,,Chemiluminescence units,,NULL,NULL,13,10.1016/j.neuro.2014.08.010
+194185,glutathione activity,,160.837,,Chemiluminescence units,,NULL,NULL,14,10.1016/j.neuro.2014.08.010
+194186,glutathione activity,,142.611,,Chemiluminescence units,,NULL,NULL,15,10.1016/j.neuro.2014.08.010
+194187,glutathione activity,,154.187,,Chemiluminescence units,,NULL,NULL,16,10.1016/j.neuro.2014.08.010
+194188,concentration nitrate,,0.116301,,Chemiluminescence units,,NULL,NULL,17,10.1016/j.neuro.2014.08.010
+194189,concentration nitrate,,0.085068,,Chemiluminescence units,,NULL,NULL,18,10.1016/j.neuro.2014.08.010
+194190,concentration nitrate,,0.089795,,Chemiluminescence units,,NULL,NULL,19,10.1016/j.neuro.2014.08.010
+194191,concentration nitrate,,0.096164,,Chemiluminescence units,,NULL,NULL,20,10.1016/j.neuro.2014.08.010
+194192,concentration nitrate,,0.119384,,Chemiluminescence units,,NULL,NULL,21,10.1016/j.neuro.2014.08.010
+194193,concentration nitrate,,0.139315,,Chemiluminescence units,,NULL,NULL,22,10.1016/j.neuro.2014.08.010
+194194,concentration nitrate,,0.089178,,Chemiluminescence units,,NULL,NULL,23,10.1016/j.neuro.2014.08.010
+194195,concentration nitrate,,0.090616,,Chemiluminescence units,,NULL,NULL,24,10.1016/j.neuro.2014.08.010
+194196,concentration nitrate,,0.110959,,Chemiluminescence units,,NULL,NULL,25,10.1016/j.neuro.2014.08.010
+194197,concentration nitrate,,0.125959,,Chemiluminescence units,,NULL,NULL,26,10.1016/j.neuro.2014.08.010
+194198,concentration nitrate,,0.088356,,Chemiluminescence units,,NULL,NULL,27,10.1016/j.neuro.2014.08.010
+194199,concentration nitrate,,0.103356,,Chemiluminescence units,,NULL,NULL,28,10.1016/j.neuro.2014.08.010
+194200,concentration nitrate,,0.102534,,Chemiluminescence units,,NULL,NULL,29,10.1016/j.neuro.2014.08.010
+194201,concentration nitrate,,0.123904,,Chemiluminescence units,,NULL,NULL,30,10.1016/j.neuro.2014.08.010
+194202,concentration nitrate,,0.092671,,Chemiluminescence units,,NULL,NULL,31,10.1016/j.neuro.2014.08.010
+194203,concentration nitrate,,0.09863,,Chemiluminescence units,,NULL,NULL,32,10.1016/j.neuro.2014.08.010
+194204,ARE/NRF2 activity,,0.037228,,Chemiluminescence units,,NULL,NULL,1,10.1016/j.neuro.2014.08.010
+194205,ARE/NRF2 activity,,0.039115,,Chemiluminescence units,,NULL,NULL,2,10.1016/j.neuro.2014.08.010
+194206,ARE/NRF2 activity,,0.032874,,Chemiluminescence units,,NULL,NULL,3,10.1016/j.neuro.2014.08.010
+194207,ARE/NRF2 activity,,0.034615,,Chemiluminescence units,,NULL,NULL,4,10.1016/j.neuro.2014.08.010
+194208,ARE/NRF2 activity,,0.036357,,Chemiluminescence units,,NULL,NULL,5,10.1016/j.neuro.2014.08.010
+194209,ARE/NRF2 activity,,0.03643,,Chemiluminescence units,,NULL,NULL,6,10.1016/j.neuro.2014.08.010
+194210,ARE/NRF2 activity,,0.035341,,Chemiluminescence units,,NULL,NULL,7,10.1016/j.neuro.2014.08.010
+194211,ARE/NRF2 activity,,0.039623,,Chemiluminescence units,,NULL,NULL,8,10.1016/j.neuro.2014.08.010
+194212,ARE/NRF2 activity,,0.037808,,Chemiluminescence units,,NULL,NULL,9,10.1016/j.neuro.2014.08.010
+194213,ARE/NRF2 activity,,0.041437,,Chemiluminescence units,,NULL,NULL,10,10.1016/j.neuro.2014.08.010
+194214,ARE/NRF2 activity,,0.035559,,Chemiluminescence units,,NULL,NULL,11,10.1016/j.neuro.2014.08.010
+194215,ARE/NRF2 activity,,0.03926,,Chemiluminescence units,,NULL,NULL,12,10.1016/j.neuro.2014.08.010
+194216,ARE/NRF2 activity,,0.035994,,Chemiluminescence units,,NULL,NULL,13,10.1016/j.neuro.2014.08.010
+194217,ARE/NRF2 activity,,0.038462,,Chemiluminescence units,,NULL,NULL,14,10.1016/j.neuro.2014.08.010
+194218,ARE/NRF2 activity,,0.035196,,Chemiluminescence units,,NULL,NULL,15,10.1016/j.neuro.2014.08.010
+194219,ARE/NRF2 activity,,0.038316,,Chemiluminescence units,,NULL,NULL,16,10.1016/j.neuro.2014.08.010

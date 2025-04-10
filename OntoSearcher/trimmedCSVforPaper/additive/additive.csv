@@ -1,0 +1,12 @@
+AdditiveID,AdditiveName,AdditiveAmount,AdditiveUnit,medium_MediumID,medium_publication_DOI
+2361,sodium,0.03068,millimolar,1,10.1021/acs.est.7b01477
+2362,magnesium,0.0433,millimolar,1,10.1021/acs.est.7b01477
+2363,potassium,0.02,millimolar,1,10.1021/acs.est.7b01477
+2364,calcium,0.1865,millimolar,1,10.1021/acs.est.7b01477
+2365,iron,0.0065,millimolar,1,10.1021/acs.est.7b01477
+2366,total organic carbon,5.58,milligrams/liter,1,10.1021/acs.est.7b01477
+2376,phosphate buffer,NULL,,1,10.1021/acs.est.5b01041
+2377,Fetal Bovine Serum,10,percent,1,10.1016/j.neuro.2014.08.010
+2378,Hank's balanced salt solution,1,percent,1,10.1016/j.neuro.2014.08.010
+2379,Fetal Bovine Serum,10,percent,2,10.1016/j.neuro.2014.08.010
+2380,citrate buffer,1,percent,2,10.1016/j.neuro.2014.08.010

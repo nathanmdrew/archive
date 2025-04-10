@@ -1,0 +1,10 @@
+ContamID,Contaminant,ContamAmount,ContamUnit,ContamMethod,material_MaterialID,material_publication_DOI
+174,Aluminum,0,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+175,Calcium,2782.258,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+176,Cobalt,24.194,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+177,Iron,96.774,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+178,Magnesium,741.935,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+179,Molybdenum,0,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+180,Sodium,217.742,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+181,Nickel,1717.742,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
+182,Sulfur,145.161,milligrams/kilogram,Inductively coupled plasma atomic emission spectroscopy,1,10.1021/acs.est.7b01477
